@@ -21,3 +21,4 @@
 073:a (lumaa, no tags, single chunk)
 074:74a-b + 74b-b (lumaa, split in 2 chunks, 0.35 s pause)
 075:75a-b + 75b-b + 75c-b (lumaa, split in 3 chunks, 0.4 s pause)
+073/074/075: replaced by v3 diacritics version 1 (retake/v3d/*-v1.mp3: 073-1, 074a-1+074b-1, 075a-1+075b-1+075c-1), user pick
