@@ -25,14 +25,14 @@ Shot 02-2: MEDIUM SHOT through the open window: Nour sits on her bed smiling wit
 
 Shot 03-1: MEDIUM SHOT: cozy bedroom lit by a night lamp; Mama (kind young Egyptian mother, beige headscarf, long cream cardigan) tucks Nour into bed; Mishmish sleeps at the foot of the bed.
 
-Shot 03-2: OVER-THE-SHOULDER SHOT from behind Mama: Nour points curiously at an old unlit dusty golden lantern on a wooden shelf.
+Shot 03-2: OVER-THE-SHOULDER SHOT from behind Mama: Nour points curiously at the golden Egyptian Ramadan lantern (fanoos) from the character sheet, with red, blue and green stained-glass panes (NOT an oil lamp, NOT a kerosene lantern), sitting unlit and a bit dusty on a wooden shelf, its face not visible.
 ```
 
 ### رسالة 3: اللقطات 03-3، 04-1، 04-2
 ```
 Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
-Shot 03-3: CLOSE SHOT: Mama kisses Nour's forehead; the night lamp glows softly beside them.
+Shot 03-3: CLOSE SHOT: Mama kisses Nour's forehead; the night lamp glows softly beside them; on the wall shelf sits the golden Egyptian Ramadan lantern (fanoos) from the character sheet, with red, blue and green stained-glass panes (NOT an oil lamp, NOT a kerosene lantern), unlit.
 
 Shot 04-1: MEDIUM SHOT: dark bedroom in blue moonlight; Nour lies awake in bed, eyes open; Mishmish sleeps at her feet.
 
@@ -43,7 +43,7 @@ Shot 04-2: CLOSE-UP: Nour's face on the pillow looking up at the crescent moon t
 ```
 Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
-Shot 05-1: CLOSE-UP: the old lantern on the wooden shelf beginning to glow, first tiny golden sparkles appearing around it in the dark room.
+Shot 05-1: CLOSE-UP: the golden Egyptian Ramadan lantern (fanoos) from the character sheet, with red, blue and green stained-glass panes (NOT an oil lamp, NOT a kerosene lantern) on the wooden shelf beginning to glow, first tiny golden sparkles appearing around it in the dark room.
 
 Shot 05-2: MEDIUM-WIDE SHOT: golden light fills the whole bedroom like sunrise; Nour sits up in bed amazed, mouth open.
 
@@ -179,7 +179,7 @@ Shot 20-4: MEDIUM SHOT: Nour yawning sleepily while the lantern's golden light w
 
 Shot 21-1: MEDIUM SHOT: Nour back in her cozy bed asleep with a gentle smile, wearing the silver necklace; Mishmish asleep at her feet.
 
-Shot 21-2: CLOSE-UP: the lantern back on the shelf, unlit, with a faint gentle smile.
+Shot 21-2: CLOSE-UP: the golden Egyptian Ramadan lantern (fanoos) from the character sheet, with red, blue and green stained-glass panes (NOT an oil lamp, NOT a kerosene lantern) back on the shelf, unlit, with a faint gentle smile on its front glass.
 ```
 
 ### رسالة 17: اللقطات 21-3، 21-4، 22-1

@@ -41,14 +41,14 @@ Shot 03-1: MEDIUM SHOT: cozy bedroom lit by a night lamp; Mama (kind young Egypt
 ========================================
 Generate ONE single full-frame 16:9 image. Not a collage, not a grid, no extra characters. Use the character sheet and location references from your knowledge. High-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, no text, no letters. Only the characters described appear.
 
-Shot 03-2: OVER-THE-SHOULDER SHOT from behind Mama: Nour points curiously at an old unlit dusty golden lantern on a wooden shelf.
+Shot 03-2: OVER-THE-SHOULDER SHOT from behind Mama: Nour points curiously at the golden Egyptian Ramadan lantern (fanoos) from the character sheet, with red, blue and green stained-glass panes (NOT an oil lamp, NOT a kerosene lantern), sitting unlit and a bit dusty on a wooden shelf, its face not visible.
 
 ========================================
 7) لقطة 03-3: ماما بتبوس نور
 ========================================
 Generate ONE single full-frame 16:9 image. Not a collage, not a grid, no extra characters. Use the character sheet and location references from your knowledge. High-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, no text, no letters. Only the characters described appear.
 
-Shot 03-3: CLOSE SHOT: Mama kisses Nour's forehead; the night lamp glows softly beside them.
+Shot 03-3: CLOSE SHOT: Mama kisses Nour's forehead; the night lamp glows softly beside them; on the wall shelf sits the golden Egyptian Ramadan lantern (fanoos) from the character sheet, with red, blue and green stained-glass panes (NOT an oil lamp, NOT a kerosene lantern), unlit.
 
 ========================================
 8) لقطة 04-1: نور مش عارفة تنام
@@ -69,7 +69,7 @@ Shot 04-2: CLOSE-UP: Nour's face on the pillow looking up at the crescent moon t
 ========================================
 Generate ONE single full-frame 16:9 image. Not a collage, not a grid, no extra characters. Use the character sheet and location references from your knowledge. High-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, no text, no letters. Only the characters described appear.
 
-Shot 05-1: CLOSE-UP: the old lantern on the wooden shelf beginning to glow, first tiny golden sparkles appearing around it in the dark room.
+Shot 05-1: CLOSE-UP: the golden Egyptian Ramadan lantern (fanoos) from the character sheet, with red, blue and green stained-glass panes (NOT an oil lamp, NOT a kerosene lantern) on the wooden shelf beginning to glow, first tiny golden sparkles appearing around it in the dark room.
 
 ========================================
 11) لقطة 05-2: الأوضة بتنوّر ونور مندهشة
@@ -335,7 +335,7 @@ Shot 21-1: MEDIUM SHOT: Nour back in her cozy bed asleep with a gentle smile, we
 ========================================
 Generate ONE single full-frame 16:9 image. Not a collage, not a grid, no extra characters. Use the character sheet and location references from your knowledge. High-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, no text, no letters. Only the characters described appear.
 
-Shot 21-2: CLOSE-UP: the lantern back on the shelf, unlit, with a faint gentle smile.
+Shot 21-2: CLOSE-UP: the golden Egyptian Ramadan lantern (fanoos) from the character sheet, with red, blue and green stained-glass panes (NOT an oil lamp, NOT a kerosene lantern) back on the shelf, unlit, with a faint gentle smile on its front glass.
 
 ========================================
 49) لقطة 21-3: النجمة في الشباك
