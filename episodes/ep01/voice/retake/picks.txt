@@ -16,3 +16,4 @@
 106 lumaa old=4.61(478Hz) a=4.22(485Hz) b=3.61(516Hz)  -> b
 079 queen old=5.92(386Hz) a=4.57(333Hz) b=3.56(314Hz)  -> b
 094 queen old=4.03(178Hz) a=1.60(235Hz) b=4.87(167Hz)  -> a
+078 ogre -> b (user pick)
