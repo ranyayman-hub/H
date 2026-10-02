@@ -6,7 +6,7 @@ VOICES = {
     'nour':    '09Q2MhEvwEP3ijEBee1i',  # Nour - Hawadeet World (designed)
     'fanoos':  'x6fvBLXv9YxzoVJQ0wp6',  # Momen - warm, mature, calm
     'lumaa':   'jDniWbMLsNWghA1TR3e3',  # Lumaa - Hawadeet World (designed)
-    'mama':    '80le32Uz2DfWFo4Foz0p',  # Nadia - sweet and melodic
+    'mama':    'JHdGl5PsEzushIzzVSd1',  # Heba - soothing, Egyptian (was Nadia; lines in voice/heba/)
     'queen':   'mS4cERRqrNy5Kmlx8Udf',  # Sawsan - dignified and warm
     'ogre':    '2Mj4k8Pr0spFUOZBa8m6',  # Nightmare Ogre - Hawadeet World (designed)
 }
