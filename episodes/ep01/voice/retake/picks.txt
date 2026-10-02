@@ -18,3 +18,6 @@
 094 queen old=4.03(178Hz) a=1.60(235Hz) b=4.87(167Hz)  -> a
 078 ogre -> b (user pick)
 039 nour -> b (user pick)
+073:a (lumaa, no tags, single chunk)
+074:74a-b + 74b-b (lumaa, split in 2 chunks, 0.35 s pause)
+075:75a-b + 75b-b + 75c-b (lumaa, split in 3 chunks, 0.4 s pause)
