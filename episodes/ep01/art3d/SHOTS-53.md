@@ -209,213 +209,213 @@ Shot 22-3: WIDE SHOT: calm night sky slightly darker, one little star, plenty of
 
 **01-1: سما الليل والفانوس (واسعة)**
 ```
-The lantern floats softly, bobbing gently while its glow pulses; stars twinkle; clouds drift; slow camera push-in. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The lantern floats softly, bobbing gently while its glow pulses; stars twinkle; clouds drift; slow camera push-in. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **01-2: الفانوس (قريبة)**
 ```
-The lantern smiles warmly as sparkles drift around it; gentle glow pulse. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The lantern smiles warmly as sparkles drift around it; gentle glow pulse. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **02-1: الشارع والبيت (واسعة)**
 ```
-Window light flickers softly; stars twinkle; slow camera push-in toward the glowing window. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Window light flickers softly; stars twinkle; slow camera push-in toward the glowing window. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **02-2: نور ومشمش في الشباك (متوسطة)**
 ```
-Nour smiles and swings her feet; Mishmish slowly flicks her tail. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour smiles and swings her feet; Mishmish slowly flicks her tail. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **03-1: ماما بتغطي نور (متوسطة)**
 ```
-Mama gently tucks the blanket around Nour and smiles. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Mama gently tucks the blanket around Nour and smiles. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **03-2: نور بتشاور على الفانوس**
 ```
-Nour points and tilts her head curiously; Mama turns to look. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour points and tilts her head curiously; Mama turns to look. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **03-3: ماما بتبوس نور**
 ```
-Mama kisses Nour's forehead, smiles and reaches to turn off the lamp; the room dims. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Mama kisses Nour's forehead, smiles and reaches to turn off the lamp; the room dims. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **04-1: نور مش عارفة تنام**
 ```
-Nour turns left and right under the blanket, unable to sleep. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour turns left and right under the blanket, unable to sleep. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **04-2: نور بتتمنى (قريبة)**
 ```
-Nour blinks slowly and whispers a wish with a hopeful smile. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour blinks slowly and whispers a wish with a hopeful smile. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **05-1: الفانوس بيبدأ ينوّر**
 ```
-The lantern slowly lights up; tiny sparkles appear and float. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The lantern slowly lights up; tiny sparkles appear and float. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **05-2: الأوضة بتنوّر ونور مندهشة**
 ```
-The golden glow grows brighter; Nour sits up slowly in wonder. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The golden glow grows brighter; Nour sits up slowly in wonder. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **06-1: الفانوس جنب السرير**
 ```
-The lantern bobs gently; Nour peeks shyly over the blanket. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The lantern bobs gently; Nour peeks shyly over the blanket. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **06-2: الفانوس بيتكلم (قريبة)**
 ```
-The lantern bobs and glows as if speaking kindly. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The lantern bobs and glows as if speaking kindly. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **06-3: نور مندهشة (قريبة)**
 ```
-Nour's surprise slowly turns into a big happy smile. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour's surprise slowly turns into a big happy smile. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **06-4: نور فرحانة**
 ```
-Nour bounces happily nodding yes; sparkles swirl. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour bounces happily nodding yes; sparkles swirl. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **07-1: نور بتطير من الشباك**
 ```
-Nour floats up and out of the window holding the lantern. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour floats up and out of the window holding the lantern. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **07-2: فوق المدينة (واسعة)**
 ```
-Nour glides over the city; lights twinkle below; slow camera follow. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour glides over the city; lights twinkle below; slow camera follow. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **07-3: نور بتضحك وهي طايرة (قريبة)**
 ```
-Nour laughs, braids flutter; stars stream by. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour laughs, braids flutter; stars stream by. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **08-1: الوصول للغابة (واسعة)**
 ```
-Nour and the lantern drift down and land softly; flowers pulse. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour and the lantern drift down and land softly; flowers pulse. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **08-2: نور مبهورة**
 ```
-Nour turns slowly, amazed, looking around. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour turns slowly, amazed, looking around. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **08-3: النجوم النايمة (قريبة)**
 ```
-The little stars breathe slowly in their sleep; leaves sway. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The little stars breathe slowly in their sleep; leaves sway. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **09-1: نور بتسمع صوت**
 ```
-Nour tiptoes slowly forward, listening carefully. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour tiptoes slowly forward, listening carefully. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **10-1: لُمعة بتعيط**
 ```
-Lumaa sniffles; a small tear rolls down. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Lumaa sniffles; a small tear rolls down. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **10-2: نور بتطبطب على لُمعة (قريبة)**
 ```
-Nour gently comforts Lumaa; Lumaa looks up. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour gently comforts Lumaa; Lumaa looks up. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **11-1: نور بتفكّر**
 ```
-Nour taps her cheek thinking; the lantern bobs. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour taps her cheek thinking; the lantern bobs. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **12-1: نور بتحكي**
 ```
-Nour gestures while telling a story; Lumaa starts to smile. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour gestures while telling a story; Lumaa starts to smile. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **12-2: لُمعة بتضحك ونورها بيكبر (قريبة)**
 ```
-Lumaa giggles and glows brighter with each laugh. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Lumaa giggles and glows brighter with each laugh. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **13-1: لُمعة بتطير**
 ```
-Lumaa rises into the air spinning; sparkles appear. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Lumaa rises into the air spinning; sparkles appear. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **13-2: لُمعة بتلف في السما (واسعة)**
 ```
-Lumaa loops through the air; Nour claps. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Lumaa loops through the air; Nour claps. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **14-1: لُمعة زعلانة**
 ```
-Nour leans closer; Lumaa looks down sadly. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour leans closer; Lumaa looks down sadly. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **14-2: السما الغريبة**
 ```
-The grey patch drifts slowly; stars dim nearby. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The grey patch drifts slowly; stars dim nearby. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **15-1: قصر الأحلام (واسعة)**
 ```
-Clouds drift; the palace glows; slow push-in. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Clouds drift; the palace glows; slow push-in. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **15-2: ملكة الأحلام والبلّورة**
 ```
-Colorful bubbles float out of the orb one by one. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Colorful bubbles float out of the orb one by one. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **15-3: الفقاعات نازلة للبيوت**
 ```
-Bubbles drift slowly down and enter windows. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Bubbles drift slowly down and enter windows. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **16-1: غول الكوابيس**
 ```
-The cloud creature pushes; the orb wobbles; the Queen gasps. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The cloud creature pushes; the orb wobbles; the Queen gasps. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **17-1: البلّورة بتتكسر (قريبة)**
 ```
-The crystal breaks apart slowly into glowing shards. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The crystal breaks apart slowly into glowing shards. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **17-2: الحتت بتقع على العوالم (واسعة)**
 ```
-The shards fall gently, trailing ribbons of light. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The shards fall gently, trailing ribbons of light. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **18-1: شعاع النور الأزرق**
 ```
-The blue beam shimmers down slowly. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The blue beam shimmers down slowly. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **18-2: الملكة بتظهر**
 ```
-The Queen appears gently and smiles; sparkles float. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The Queen appears gently and smiles; sparkles float. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **19-1: الملكة بتلبّس نور العقد**
 ```
-The Queen gently fastens the necklace. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The Queen gently fastens the necklace. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **19-2: العقد (قريبة جدًا)**
 ```
-The necklace glimmers; Nour's fingers trace the slots. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The necklace glimmers; Nour's fingers trace the slots. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **19-3: نور بشجاعة**
 ```
-Nour lifts her eyes and smiles bravely. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour lifts her eyes and smiles bravely. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **20-1: لُمعة والفانوس جنب نور**
 ```
-Lumaa flies in; the lantern brightens. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Lumaa flies in; the lantern brightens. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **20-2: الفريق**
 ```
-The friends smile together; the camera slowly pushes in. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The friends smile together; the camera slowly pushes in. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **20-3: ريحة الشوكولاتة**
 ```
-The necklace sparkles; Lumaa sniffs and looks surprised. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The necklace sparkles; Lumaa sniffs and looks surprised. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **20-4: نور بتتاوب**
 ```
-Nour yawns; golden light swirls around her. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour yawns; golden light swirls around her. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **21-1: نور في سريرها**
 ```
-Nour breathes slowly in her sleep; Mishmish breathes. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour breathes slowly in her sleep; Mishmish breathes. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **21-2: الفانوس على الرف**
 ```
-The lantern stays still with a faint glow of a smile. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The lantern stays still with a faint glow of a smile. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **21-3: النجمة في الشباك**
 ```
-The star twinkles softly like a wink. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The star twinkles softly like a wink. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **21-4: نور نايمة (قريبة)**
 ```
-Nour smiles in her sleep; very slow push-in. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Nour smiles in her sleep; very slow push-in. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **22-1: سما الختام**
 ```
-Clouds drift very slowly; the star twinkles. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. Clouds drift very slowly; the star twinkles. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **22-2: القمر**
 ```
-The moon glows softly; camera drifts upward. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The moon glows softly; camera drifts upward. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```
 **22-3: النهاية**
 ```
-The scene grows calmer and darker; the star twinkles one last time. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
+Animate this exact image. The scene grows calmer and darker; the star twinkles one last time. Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music.
 ```

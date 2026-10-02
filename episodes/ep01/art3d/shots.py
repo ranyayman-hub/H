@@ -76,6 +76,6 @@ for b in range(0, 53, 3):
 out.append("---\n\n## الجزء ب: تحريك اللقطات (Flow)")
 out.append("لكل لقطة: ارفع صورتها كـ **First frame**، والصق الأمر بتاعها، وسمّي الفيديو برقم اللقطة.\n")
 for sid, ar, img, mot in S:
-    out.append(f"**{sid}: {ar}**\n```\n{mot} {tail}\n```")
+    out.append(f"**{sid}: {ar}**\n```\nAnimate this exact image. {mot} {tail}\n```")
 open('SHOTS-53.md', 'w').write('\n'.join(out) + '\n')
 print('ok', (53 + 2) // 3)
