@@ -2,3 +2,6 @@ episodes/*/build/clips/
 episodes/*/build/check/
 episodes/*/Hawadeet-World-EP*-Nour-and-the-Magic-Lantern.mp4
 episodes/ep01/build/shots/
+episodes/ep01/shots3d/clips/*.mp4
+!episodes/ep01/shots3d/clips/07-2.mp4
+episodes/ep01/build/mix.wav
