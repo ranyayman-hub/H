@@ -1,0 +1,1354 @@
+[
+ {
+  "i": 0,
+  "speaker": "fanoos",
+  "dur": 2.926,
+  "start": 6.7,
+  "imgs": [
+   "build/lipsync/f/000-0.jpg",
+   "build/lipsync/f/000-1.jpg",
+   "build/lipsync/f/000-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1449
+ },
+ {
+  "i": 1,
+  "speaker": "fanoos",
+  "dur": 7.079,
+  "start": 10.226,
+  "imgs": [
+   "build/lipsync/f/001-0.jpg",
+   "build/lipsync/f/001-1.jpg",
+   "build/lipsync/f/001-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 3035
+ },
+ {
+  "i": 2,
+  "speaker": "fanoos",
+  "dur": 7.811,
+  "start": 17.905,
+  "imgs": [
+   "build/lipsync/f/002-0.jpg",
+   "build/lipsync/f/002-1.jpg",
+   "build/lipsync/f/002-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 3315
+ },
+ {
+  "i": 4,
+  "speaker": "nour",
+  "dur": 5.486,
+  "start": 31.866,
+  "imgs": [
+   "build/lipsync/f/004-0.jpg",
+   "build/lipsync/f/004-1.jpg",
+   "build/lipsync/f/004-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 2427
+ },
+ {
+  "i": 5,
+  "speaker": "nour",
+  "dur": 3.971,
+  "start": 39.352,
+  "imgs": [
+   "build/lipsync/f/005-0.jpg",
+   "build/lipsync/f/005-1.jpg",
+   "build/lipsync/f/005-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1848
+ },
+ {
+  "i": 6,
+  "speaker": "mama",
+  "dur": 3.318,
+  "start": 47.326,
+  "imgs": [
+   "build/lipsync/f/006-0.jpg",
+   "build/lipsync/f/006-1.jpg",
+   "build/lipsync/f/006-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1598
+ },
+ {
+  "i": 7,
+  "speaker": "nour",
+  "dur": 3.318,
+  "start": 51.244,
+  "imgs": [
+   "build/lipsync/f/007-0.jpg",
+   "build/lipsync/f/007-1.jpg",
+   "build/lipsync/f/007-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1598
+ },
+ {
+  "i": 8,
+  "speaker": "mama",
+  "dur": 6.269,
+  "start": 55.162,
+  "imgs": [
+   "build/lipsync/f/008-0.jpg",
+   "build/lipsync/f/008-1.jpg",
+   "build/lipsync/f/008-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 2726
+ },
+ {
+  "i": 9,
+  "speaker": "mama",
+  "dur": 4.676,
+  "start": 62.031,
+  "imgs": [
+   "build/lipsync/f/009-0.jpg",
+   "build/lipsync/f/009-1.jpg",
+   "build/lipsync/f/009-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 2117
+ },
+ {
+  "i": 10,
+  "speaker": "nour",
+  "dur": 2.847,
+  "start": 67.307,
+  "imgs": [
+   "build/lipsync/f/010-0.jpg",
+   "build/lipsync/f/010-1.jpg",
+   "build/lipsync/f/010-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1419
+ },
+ {
+  "i": 11,
+  "speaker": "mama",
+  "dur": 4.989,
+  "start": 70.754,
+  "imgs": [
+   "build/lipsync/f/011-0.jpg",
+   "build/lipsync/f/011-1.jpg",
+   "build/lipsync/f/011-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 2237
+ },
+ {
+  "i": 12,
+  "speaker": "nour",
+  "dur": 1.959,
+  "start": 76.343,
+  "imgs": [
+   "build/lipsync/f/012-0.jpg",
+   "build/lipsync/f/012-1.jpg",
+   "build/lipsync/f/012-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1079
+ },
+ {
+  "i": 14,
+  "speaker": "nour",
+  "dur": 2.769,
+  "start": 81.547,
+  "imgs": [
+   "build/lipsync/f/014-0.jpg",
+   "build/lipsync/f/014-1.jpg",
+   "build/lipsync/f/014-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1389
+ },
+ {
+  "i": 15,
+  "speaker": "nour",
+  "dur": 8.516,
+  "start": 84.916,
+  "imgs": [
+   "build/lipsync/f/015-0.jpg",
+   "build/lipsync/f/015-1.jpg",
+   "build/lipsync/f/015-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 3584
+ },
+ {
+  "i": 16,
+  "speaker": "nour",
+  "dur": 5.068,
+  "start": 94.032,
+  "imgs": [
+   "build/lipsync/f/016-0.jpg",
+   "build/lipsync/f/016-1.jpg",
+   "build/lipsync/f/016-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 2267
+ },
+ {
+  "i": 17,
+  "speaker": "nour",
+  "dur": 7.079,
+  "start": 99.7,
+  "imgs": [
+   "build/lipsync/f/017-0.jpg",
+   "build/lipsync/f/017-1.jpg",
+   "build/lipsync/f/017-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 3035
+ },
+ {
+  "i": 19,
+  "speaker": "nour",
+  "dur": 4.049,
+  "start": 112.137,
+  "imgs": [
+   "build/lipsync/f/019-0.jpg",
+   "build/lipsync/f/019-1.jpg",
+   "build/lipsync/f/019-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1878
+ },
+ {
+  "i": 20,
+  "speaker": "nour",
+  "dur": 4.519,
+  "start": 118.186,
+  "imgs": [
+   "build/lipsync/f/020-0.jpg",
+   "build/lipsync/f/020-1.jpg",
+   "build/lipsync/f/020-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 2057
+ },
+ {
+  "i": 21,
+  "speaker": "fanoos",
+  "dur": 1.724,
+  "start": 128.351,
+  "imgs": [
+   "build/lipsync/f/021-0.jpg",
+   "build/lipsync/f/021-1.jpg",
+   "build/lipsync/f/021-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 990
+ },
+ {
+  "i": 22,
+  "speaker": "nour",
+  "dur": 2.116,
+  "start": 130.675,
+  "imgs": [
+   "build/lipsync/f/022-0.jpg",
+   "build/lipsync/f/022-1.jpg",
+   "build/lipsync/f/022-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1139
+ },
+ {
+  "i": 23,
+  "speaker": "fanoos",
+  "dur": 2.926,
+  "start": 133.391,
+  "imgs": [
+   "build/lipsync/f/023-0.jpg",
+   "build/lipsync/f/023-1.jpg",
+   "build/lipsync/f/023-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1449
+ },
+ {
+  "i": 24,
+  "speaker": "fanoos",
+  "dur": 6.609,
+  "start": 136.917,
+  "imgs": [
+   "build/lipsync/f/024-0.jpg",
+   "build/lipsync/f/024-1.jpg",
+   "build/lipsync/f/024-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 2856
+ },
+ {
+  "i": 25,
+  "speaker": "nour",
+  "dur": 2.351,
+  "start": 144.126,
+  "imgs": [
+   "build/lipsync/f/025-0.jpg",
+   "build/lipsync/f/025-1.jpg",
+   "build/lipsync/f/025-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1229
+ },
+ {
+  "i": 26,
+  "speaker": "fanoos",
+  "dur": 5.564,
+  "start": 147.077,
+  "imgs": [
+   "build/lipsync/f/026-0.jpg",
+   "build/lipsync/f/026-1.jpg",
+   "build/lipsync/f/026-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 2456
+ },
+ {
+  "i": 27,
+  "speaker": "fanoos",
+  "dur": 2.586,
+  "start": 153.241,
+  "imgs": [
+   "build/lipsync/f/027-0.jpg",
+   "build/lipsync/f/027-1.jpg",
+   "build/lipsync/f/027-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1319
+ },
+ {
+  "i": 28,
+  "speaker": "nour",
+  "dur": 4.598,
+  "start": 156.427,
+  "imgs": [
+   "build/lipsync/f/028-0.jpg",
+   "build/lipsync/f/028-1.jpg",
+   "build/lipsync/f/028-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 2087
+ },
+ {
+  "i": 29,
+  "speaker": "fanoos",
+  "dur": 3.474,
+  "start": 161.625,
+  "imgs": [
+   "build/lipsync/f/029-0.jpg",
+   "build/lipsync/f/029-1.jpg",
+   "build/lipsync/f/029-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1658
+ },
+ {
+  "i": 30,
+  "speaker": "nour",
+  "dur": 1.489,
+  "start": 165.699,
+  "imgs": [
+   "build/lipsync/f/030-0.jpg",
+   "build/lipsync/f/030-1.jpg",
+   "build/lipsync/f/030-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 900
+ },
+ {
+  "i": 31,
+  "speaker": "fanoos",
+  "dur": 4.362,
+  "start": 168.371,
+  "imgs": [
+   "build/lipsync/f/031-0.jpg",
+   "build/lipsync/f/031-1.jpg",
+   "build/lipsync/f/031-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1997
+ },
+ {
+  "i": 32,
+  "speaker": "nour",
+  "dur": 2.194,
+  "start": 173.333,
+  "imgs": [
+   "build/lipsync/f/032-0.jpg",
+   "build/lipsync/f/032-1.jpg",
+   "build/lipsync/f/032-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1169
+ },
+ {
+  "i": 34,
+  "speaker": "nour",
+  "dur": 3.318,
+  "start": 177.772,
+  "imgs": [
+   "build/lipsync/f/034-0.jpg",
+   "build/lipsync/f/034-1.jpg",
+   "build/lipsync/f/034-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1598
+ },
+ {
+  "i": 35,
+  "speaker": "nour",
+  "dur": 7.314,
+  "start": 181.69,
+  "imgs": [
+   "build/lipsync/f/035-0.jpg",
+   "build/lipsync/f/035-1.jpg",
+   "build/lipsync/f/035-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 3125
+ },
+ {
+  "i": 36,
+  "speaker": "fanoos",
+  "dur": 4.598,
+  "start": 189.604,
+  "imgs": [
+   "build/lipsync/f/036-0.jpg",
+   "build/lipsync/f/036-1.jpg",
+   "build/lipsync/f/036-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 2087
+ },
+ {
+  "i": 37,
+  "speaker": "nour",
+  "dur": 3.553,
+  "start": 194.802,
+  "imgs": [
+   "build/lipsync/f/037-0.jpg",
+   "build/lipsync/f/037-1.jpg",
+   "build/lipsync/f/037-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1688
+ },
+ {
+  "i": 38,
+  "speaker": "fanoos",
+  "dur": 2.429,
+  "start": 198.955,
+  "imgs": [
+   "build/lipsync/f/038-0.jpg",
+   "build/lipsync/f/038-1.jpg",
+   "build/lipsync/f/038-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1259
+ },
+ {
+  "i": 39,
+  "speaker": "nour",
+  "dur": 3.396,
+  "start": 202.984,
+  "imgs": [
+   "build/lipsync/f/039-0.jpg",
+   "build/lipsync/f/039-1.jpg",
+   "build/lipsync/f/039-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1628
+ },
+ {
+  "i": 40,
+  "speaker": "nour",
+  "dur": 5.564,
+  "start": 207.11,
+  "imgs": [
+   "build/lipsync/f/040-0.jpg",
+   "build/lipsync/f/040-1.jpg",
+   "build/lipsync/f/040-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 2456
+ },
+ {
+  "i": 41,
+  "speaker": "fanoos",
+  "dur": 1.959,
+  "start": 213.404,
+  "imgs": [
+   "build/lipsync/f/041-0.jpg",
+   "build/lipsync/f/041-1.jpg",
+   "build/lipsync/f/041-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1079
+ },
+ {
+  "i": 42,
+  "speaker": "fanoos",
+  "dur": 6.113,
+  "start": 216.092,
+  "imgs": [
+   "build/lipsync/f/042-0.jpg",
+   "build/lipsync/f/042-1.jpg",
+   "build/lipsync/f/042-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 2666
+ },
+ {
+  "i": 43,
+  "speaker": "nour",
+  "dur": 5.068,
+  "start": 222.935,
+  "imgs": [
+   "build/lipsync/f/043-0.jpg",
+   "build/lipsync/f/043-1.jpg",
+   "build/lipsync/f/043-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 2267
+ },
+ {
+  "i": 44,
+  "speaker": "fanoos",
+  "dur": 2.116,
+  "start": 228.733,
+  "imgs": [
+   "build/lipsync/f/044-0.jpg",
+   "build/lipsync/f/044-1.jpg",
+   "build/lipsync/f/044-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1139
+ },
+ {
+  "i": 45,
+  "speaker": "lumaa",
+  "dur": 2.429,
+  "start": 232.449,
+  "imgs": [
+   "build/lipsync/f/045-0.jpg",
+   "build/lipsync/f/045-1.jpg",
+   "build/lipsync/f/045-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1259
+ },
+ {
+  "i": 46,
+  "speaker": "nour",
+  "dur": 3.082,
+  "start": 235.478,
+  "imgs": [
+   "build/lipsync/f/046-0.jpg",
+   "build/lipsync/f/046-1.jpg",
+   "build/lipsync/f/046-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1508
+ },
+ {
+  "i": 47,
+  "speaker": "nour",
+  "dur": 3.396,
+  "start": 239.16,
+  "imgs": [
+   "build/lipsync/f/047-0.jpg",
+   "build/lipsync/f/047-1.jpg",
+   "build/lipsync/f/047-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1628
+ },
+ {
+  "i": 48,
+  "speaker": "nour",
+  "dur": 2.508,
+  "start": 244.156,
+  "imgs": [
+   "build/lipsync/f/048-0.jpg",
+   "build/lipsync/f/048-1.jpg",
+   "build/lipsync/f/048-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1289
+ },
+ {
+  "i": 49,
+  "speaker": "lumaa",
+  "dur": 2.038,
+  "start": 247.322,
+  "imgs": [
+   "build/lipsync/f/049-0.jpg",
+   "build/lipsync/f/049-1.jpg",
+   "build/lipsync/f/049-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1110
+ },
+ {
+  "i": 50,
+  "speaker": "lumaa",
+  "dur": 3.474,
+  "start": 250.017,
+  "imgs": [
+   "build/lipsync/f/050-0.jpg",
+   "build/lipsync/f/050-1.jpg",
+   "build/lipsync/f/050-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1658
+ },
+ {
+  "i": 51,
+  "speaker": "lumaa",
+  "dur": 4.206,
+  "start": 254.149,
+  "imgs": [
+   "build/lipsync/f/051-0.jpg",
+   "build/lipsync/f/051-1.jpg",
+   "build/lipsync/f/051-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1938
+ },
+ {
+  "i": 52,
+  "speaker": "nour",
+  "dur": 3.553,
+  "start": 259.013,
+  "imgs": [
+   "build/lipsync/f/052-0.jpg",
+   "build/lipsync/f/052-1.jpg",
+   "build/lipsync/f/052-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1688
+ },
+ {
+  "i": 53,
+  "speaker": "nour",
+  "dur": 3.161,
+  "start": 264.166,
+  "imgs": [
+   "build/lipsync/f/053-0.jpg",
+   "build/lipsync/f/053-1.jpg",
+   "build/lipsync/f/053-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1539
+ },
+ {
+  "i": 54,
+  "speaker": "fanoos",
+  "dur": 3.004,
+  "start": 267.927,
+  "imgs": [
+   "build/lipsync/f/054-0.jpg",
+   "build/lipsync/f/054-1.jpg",
+   "build/lipsync/f/054-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1479
+ },
+ {
+  "i": 55,
+  "speaker": "fanoos",
+  "dur": 3.004,
+  "start": 271.531,
+  "imgs": [
+   "build/lipsync/f/055-0.jpg",
+   "build/lipsync/f/055-1.jpg",
+   "build/lipsync/f/055-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1479
+ },
+ {
+  "i": 56,
+  "speaker": "nour",
+  "dur": 1.959,
+  "start": 275.135,
+  "imgs": [
+   "build/lipsync/f/056-0.jpg",
+   "build/lipsync/f/056-1.jpg",
+   "build/lipsync/f/056-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1079
+ },
+ {
+  "i": 57,
+  "speaker": "nour",
+  "dur": 3.474,
+  "start": 278.694,
+  "imgs": [
+   "build/lipsync/f/057-0.jpg",
+   "build/lipsync/f/057-1.jpg",
+   "build/lipsync/f/057-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1658
+ },
+ {
+  "i": 58,
+  "speaker": "nour",
+  "dur": 6.191,
+  "start": 282.768,
+  "imgs": [
+   "build/lipsync/f/058-0.jpg",
+   "build/lipsync/f/058-1.jpg",
+   "build/lipsync/f/058-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 2696
+ },
+ {
+  "i": 59,
+  "speaker": "lumaa",
+  "dur": 1.802,
+  "start": 289.559,
+  "imgs": [
+   "build/lipsync/f/059-0.jpg",
+   "build/lipsync/f/059-1.jpg",
+   "build/lipsync/f/059-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1019
+ },
+ {
+  "i": 60,
+  "speaker": "nour",
+  "dur": 6.766,
+  "start": 291.961,
+  "imgs": [
+   "build/lipsync/f/060-0.jpg",
+   "build/lipsync/f/060-1.jpg",
+   "build/lipsync/f/060-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 2916
+ },
+ {
+  "i": 61,
+  "speaker": "lumaa",
+  "dur": 2.847,
+  "start": 299.327,
+  "imgs": [
+   "build/lipsync/f/061-0.jpg",
+   "build/lipsync/f/061-1.jpg",
+   "build/lipsync/f/061-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1419
+ },
+ {
+  "i": 62,
+  "speaker": "nour",
+  "dur": 2.769,
+  "start": 302.774,
+  "imgs": [
+   "build/lipsync/f/062-0.jpg",
+   "build/lipsync/f/062-1.jpg",
+   "build/lipsync/f/062-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1389
+ },
+ {
+  "i": 64,
+  "speaker": "lumaa",
+  "dur": 3.788,
+  "start": 309.543,
+  "imgs": [
+   "build/lipsync/f/064-0.jpg",
+   "build/lipsync/f/064-1.jpg",
+   "build/lipsync/f/064-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1778
+ },
+ {
+  "i": 65,
+  "speaker": "lumaa",
+  "dur": 3.082,
+  "start": 313.931,
+  "imgs": [
+   "build/lipsync/f/065-0.jpg",
+   "build/lipsync/f/065-1.jpg",
+   "build/lipsync/f/065-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1508
+ },
+ {
+  "i": 66,
+  "speaker": "nour",
+  "dur": 3.239,
+  "start": 317.613,
+  "imgs": [
+   "build/lipsync/f/066-0.jpg",
+   "build/lipsync/f/066-1.jpg",
+   "build/lipsync/f/066-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1568
+ },
+ {
+  "i": 67,
+  "speaker": "lumaa",
+  "dur": 3.631,
+  "start": 321.452,
+  "imgs": [
+   "build/lipsync/f/067-0.jpg",
+   "build/lipsync/f/067-1.jpg",
+   "build/lipsync/f/067-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1718
+ },
+ {
+  "i": 68,
+  "speaker": "nour",
+  "dur": 2.926,
+  "start": 326.14,
+  "imgs": [
+   "build/lipsync/f/068-0.jpg",
+   "build/lipsync/f/068-1.jpg",
+   "build/lipsync/f/068-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1449
+ },
+ {
+  "i": 69,
+  "speaker": "lumaa",
+  "dur": 4.362,
+  "start": 330.083,
+  "imgs": [
+   "build/lipsync/f/069-0.jpg",
+   "build/lipsync/f/069-1.jpg",
+   "build/lipsync/f/069-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1997
+ },
+ {
+  "i": 70,
+  "speaker": "lumaa",
+  "dur": 5.642,
+  "start": 335.462,
+  "imgs": [
+   "build/lipsync/f/070-0.jpg",
+   "build/lipsync/f/070-1.jpg",
+   "build/lipsync/f/070-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 2486
+ },
+ {
+  "i": 71,
+  "speaker": "fanoos",
+  "dur": 2.429,
+  "start": 342.121,
+  "imgs": [
+   "build/lipsync/f/071-0.jpg",
+   "build/lipsync/f/071-1.jpg",
+   "build/lipsync/f/071-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1259
+ },
+ {
+  "i": 72,
+  "speaker": "lumaa",
+  "dur": 6.269,
+  "start": 346.15,
+  "imgs": [
+   "build/lipsync/f/072-0.jpg",
+   "build/lipsync/f/072-1.jpg",
+   "build/lipsync/f/072-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 2726
+ },
+ {
+  "i": 73,
+  "speaker": "lumaa",
+  "dur": 4.754,
+  "start": 353.019,
+  "imgs": [
+   "build/lipsync/f/073-0.jpg",
+   "build/lipsync/f/073-1.jpg",
+   "build/lipsync/f/073-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 2147
+ },
+ {
+  "i": 74,
+  "speaker": "lumaa",
+  "dur": 10.397,
+  "start": 358.373,
+  "imgs": [
+   "build/lipsync/f/074-0.jpg",
+   "build/lipsync/f/074-1.jpg",
+   "build/lipsync/f/074-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 4303
+ },
+ {
+  "i": 75,
+  "speaker": "lumaa",
+  "dur": 11.102,
+  "start": 369.37,
+  "imgs": [
+   "build/lipsync/f/075-0.jpg",
+   "build/lipsync/f/075-1.jpg",
+   "build/lipsync/f/075-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 4572
+ },
+ {
+  "i": 76,
+  "speaker": "lumaa",
+  "dur": 3.396,
+  "start": 382.072,
+  "imgs": [
+   "build/lipsync/f/076-0.jpg",
+   "build/lipsync/f/076-1.jpg",
+   "build/lipsync/f/076-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1628
+ },
+ {
+  "i": 77,
+  "speaker": "ogre",
+  "dur": 3.239,
+  "start": 386.068,
+  "imgs": [
+   "build/lipsync/f/077-0.jpg",
+   "build/lipsync/f/077-1.jpg",
+   "build/lipsync/f/077-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1568
+ },
+ {
+  "i": 78,
+  "speaker": "ogre",
+  "dur": 4.754,
+  "start": 389.907,
+  "imgs": [
+   "build/lipsync/f/078-0.jpg",
+   "build/lipsync/f/078-1.jpg",
+   "build/lipsync/f/078-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 2147
+ },
+ {
+  "i": 79,
+  "speaker": "queen",
+  "dur": 2.847,
+  "start": 395.261,
+  "imgs": [
+   "build/lipsync/f/079-0.jpg",
+   "build/lipsync/f/079-1.jpg",
+   "build/lipsync/f/079-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1419
+ },
+ {
+  "i": 81,
+  "speaker": "lumaa",
+  "dur": 4.127,
+  "start": 401.008,
+  "imgs": [
+   "build/lipsync/f/081-0.jpg",
+   "build/lipsync/f/081-1.jpg",
+   "build/lipsync/f/081-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1908
+ },
+ {
+  "i": 82,
+  "speaker": "lumaa",
+  "dur": 7.158,
+  "start": 405.735,
+  "imgs": [
+   "build/lipsync/f/082-0.jpg",
+   "build/lipsync/f/082-1.jpg",
+   "build/lipsync/f/082-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 3065
+ },
+ {
+  "i": 83,
+  "speaker": "lumaa",
+  "dur": 5.878,
+  "start": 413.493,
+  "imgs": [
+   "build/lipsync/f/083-0.jpg",
+   "build/lipsync/f/083-1.jpg",
+   "build/lipsync/f/083-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 2576
+ },
+ {
+  "i": 84,
+  "speaker": "nour",
+  "dur": 5.068,
+  "start": 419.971,
+  "imgs": [
+   "build/lipsync/f/084-0.jpg",
+   "build/lipsync/f/084-1.jpg",
+   "build/lipsync/f/084-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 2267
+ },
+ {
+  "i": 86,
+  "speaker": "nour",
+  "dur": 2.116,
+  "start": 427.939,
+  "imgs": [
+   "build/lipsync/f/086-0.jpg",
+   "build/lipsync/f/086-1.jpg",
+   "build/lipsync/f/086-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1139
+ },
+ {
+  "i": 87,
+  "speaker": "queen",
+  "dur": 3.082,
+  "start": 430.655,
+  "imgs": [
+   "build/lipsync/f/087-0.jpg",
+   "build/lipsync/f/087-1.jpg",
+   "build/lipsync/f/087-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1508
+ },
+ {
+  "i": 88,
+  "speaker": "queen",
+  "dur": 7.549,
+  "start": 434.337,
+  "imgs": [
+   "build/lipsync/f/088-0.jpg",
+   "build/lipsync/f/088-1.jpg",
+   "build/lipsync/f/088-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 3215
+ },
+ {
+  "i": 89,
+  "speaker": "queen",
+  "dur": 3.396,
+  "start": 442.486,
+  "imgs": [
+   "build/lipsync/f/089-0.jpg",
+   "build/lipsync/f/089-1.jpg",
+   "build/lipsync/f/089-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1628
+ },
+ {
+  "i": 90,
+  "speaker": "nour",
+  "dur": 0.914,
+  "start": 446.482,
+  "imgs": [
+   "build/lipsync/f/090-0.jpg",
+   "build/lipsync/f/090-1.jpg",
+   "build/lipsync/f/090-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 680
+ },
+ {
+  "i": 91,
+  "speaker": "queen",
+  "dur": 4.049,
+  "start": 448.568,
+  "imgs": [
+   "build/lipsync/f/091-0.jpg",
+   "build/lipsync/f/091-1.jpg",
+   "build/lipsync/f/091-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1878
+ },
+ {
+  "i": 92,
+  "speaker": "queen",
+  "dur": 8.124,
+  "start": 453.561,
+  "imgs": [
+   "build/lipsync/f/092-0.jpg",
+   "build/lipsync/f/092-1.jpg",
+   "build/lipsync/f/092-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 3434
+ },
+ {
+  "i": 93,
+  "speaker": "nour",
+  "dur": 4.049,
+  "start": 462.63,
+  "imgs": [
+   "build/lipsync/f/093-0.jpg",
+   "build/lipsync/f/093-1.jpg",
+   "build/lipsync/f/093-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1878
+ },
+ {
+  "i": 94,
+  "speaker": "queen",
+  "dur": 2.194,
+  "start": 467.623,
+  "imgs": [
+   "build/lipsync/f/094-0.jpg",
+   "build/lipsync/f/094-1.jpg",
+   "build/lipsync/f/094-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1169
+ },
+ {
+  "i": 95,
+  "speaker": "queen",
+  "dur": 3.239,
+  "start": 470.762,
+  "imgs": [
+   "build/lipsync/f/095-0.jpg",
+   "build/lipsync/f/095-1.jpg",
+   "build/lipsync/f/095-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1568
+ },
+ {
+  "i": 96,
+  "speaker": "nour",
+  "dur": 2.038,
+  "start": 474.945,
+  "imgs": [
+   "build/lipsync/f/096-0.jpg",
+   "build/lipsync/f/096-1.jpg",
+   "build/lipsync/f/096-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1110
+ },
+ {
+  "i": 97,
+  "speaker": "lumaa",
+  "dur": 2.926,
+  "start": 478.583,
+  "imgs": [
+   "build/lipsync/f/097-0.jpg",
+   "build/lipsync/f/097-1.jpg",
+   "build/lipsync/f/097-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1449
+ },
+ {
+  "i": 98,
+  "speaker": "fanoos",
+  "dur": 2.691,
+  "start": 483.314,
+  "imgs": [
+   "build/lipsync/f/098-0.jpg",
+   "build/lipsync/f/098-1.jpg",
+   "build/lipsync/f/098-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1359
+ },
+ {
+  "i": 99,
+  "speaker": "nour",
+  "dur": 3.553,
+  "start": 487.809,
+  "imgs": [
+   "build/lipsync/f/099-0.jpg",
+   "build/lipsync/f/099-1.jpg",
+   "build/lipsync/f/099-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1688
+ },
+ {
+  "i": 100,
+  "speaker": "lumaa",
+  "dur": 2.769,
+  "start": 493.167,
+  "imgs": [
+   "build/lipsync/f/100-0.jpg",
+   "build/lipsync/f/100-1.jpg",
+   "build/lipsync/f/100-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1389
+ },
+ {
+  "i": 101,
+  "speaker": "lumaa",
+  "dur": 2.691,
+  "start": 497.741,
+  "imgs": [
+   "build/lipsync/f/101-0.jpg",
+   "build/lipsync/f/101-1.jpg",
+   "build/lipsync/f/101-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1359
+ },
+ {
+  "i": 102,
+  "speaker": "fanoos",
+  "dur": 3.318,
+  "start": 502.237,
+  "imgs": [
+   "build/lipsync/f/102-0.jpg",
+   "build/lipsync/f/102-1.jpg",
+   "build/lipsync/f/102-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1598
+ },
+ {
+  "i": 103,
+  "speaker": "nour",
+  "dur": 3.971,
+  "start": 507.359,
+  "imgs": [
+   "build/lipsync/f/103-0.jpg",
+   "build/lipsync/f/103-1.jpg",
+   "build/lipsync/f/103-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1848
+ },
+ {
+  "i": 104,
+  "speaker": "fanoos",
+  "dur": 3.318,
+  "start": 513.135,
+  "imgs": [
+   "build/lipsync/f/104-0.jpg",
+   "build/lipsync/f/104-1.jpg",
+   "build/lipsync/f/104-2.jpg"
+  ],
+  "cls": "Y",
+  "cost": 1598
+ },
+ {
+  "i": 105,
+  "speaker": "nour",
+  "dur": 3.004,
+  "start": 518.803,
+  "imgs": [
+   "build/lipsync/f/105-0.jpg",
+   "build/lipsync/f/105-1.jpg",
+   "build/lipsync/f/105-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1479
+ },
+ {
+  "i": 106,
+  "speaker": "lumaa",
+  "dur": 2.429,
+  "start": 523.807,
+  "imgs": [
+   "build/lipsync/f/106-0.jpg",
+   "build/lipsync/f/106-1.jpg",
+   "build/lipsync/f/106-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1259
+ },
+ {
+  "i": 107,
+  "speaker": "fanoos",
+  "dur": 2.508,
+  "start": 528.236,
+  "imgs": [
+   "build/lipsync/f/107-0.jpg",
+   "build/lipsync/f/107-1.jpg",
+   "build/lipsync/f/107-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 1289
+ },
+ {
+  "i": 108,
+  "speaker": "fanoos",
+  "dur": 10.919,
+  "start": 532.744,
+  "imgs": [
+   "build/lipsync/f/108-0.jpg",
+   "build/lipsync/f/108-1.jpg",
+   "build/lipsync/f/108-2.jpg"
+  ],
+  "cls": "M",
+  "cost": 4502
+ },
+ {
+  "i": 109,
+  "speaker": "fanoos",
+  "dur": 8.046,
+  "start": 558.823,
+  "imgs": [
+   "build/lipsync/f/109-0.jpg",
+   "build/lipsync/f/109-1.jpg",
+   "build/lipsync/f/109-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 3405
+ },
+ {
+  "i": 110,
+  "speaker": "fanoos",
+  "dur": 2.351,
+  "start": 568.869,
+  "imgs": [
+   "build/lipsync/f/110-0.jpg",
+   "build/lipsync/f/110-1.jpg",
+   "build/lipsync/f/110-2.jpg"
+  ],
+  "cls": "N",
+  "cost": 1229
+ }
+]
