@@ -14,7 +14,7 @@
 **في كل مرة:** ارفع `sheet3d-FINAL` وصورة المشهد الـ 2D بتاعه (من الـ ZIP القديم)، والصق السطر الثابت ده، وبعده وصف المشهد:
 
 ```
-Use the first attached image as the character reference and the second attached image as the scene layout. Recreate this scene as a 3D animated movie frame like Pixar films: keep the characters exactly like the character reference, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described appear.
+Use the first attached image as the character reference and the second attached image as the scene layout. Recreate this scene as a high-end 3D animated family movie frame: keep the characters exactly like the character reference, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described appear.
 ```
 
 ⚠️ لو رفعت **صورة واحدة بس** (صفحة الشخصيات)، **امسح** من الأمر الجزء ده: `and the second attached image as the scene layout`

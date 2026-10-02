@@ -7,27 +7,27 @@
 
 **1) أوضة نور**
 ```
-Using the attached character sheet's 3D animated movie style (like Pixar films), create a location reference image with no characters: Nour's cozy Egyptian bedroom at night. A small wooden bed with a white pillow and a quilted cream blanket, a wooden nightstand with a small warm lamp on the left, a window with soft blue curtains and a crescent moon outside on the right, a wooden wall shelf with books and an old golden Ramadan lantern, a small wooden dresser, warm beige walls, a soft rug. Wide 16:9, no text.
+Using the attached character sheet's high-end 3D animated family movie style, create a location reference image with no characters: Nour's cozy Egyptian bedroom at night. A small wooden bed with a white pillow and a quilted cream blanket, a wooden nightstand with a small warm lamp on the left, a window with soft blue curtains and a crescent moon outside on the right, a wooden wall shelf with books and an old golden Ramadan lantern, a small wooden dresser, warm beige walls, a soft rug. Wide 16:9, no text.
 ```
 
 **2) الشارع وبيت نور**
 ```
-Using the attached character sheet's 3D animated movie style (like Pixar films), create a location reference image with no characters: a quiet old Egyptian cobblestone street at night, with a cozy two-story sand-colored house with wooden shutters at the end, one upstairs window glowing warm, a starry navy sky and a crescent moon. Wide 16:9, no text.
+Using the attached character sheet's high-end 3D animated family movie style, create a location reference image with no characters: a quiet old Egyptian cobblestone street at night, with a cozy two-story sand-colored house with wooden shutters at the end, one upstairs window glowing warm, a starry navy sky and a crescent moon. Wide 16:9, no text.
 ```
 
 **3) غابة النجوم النايمة**
 ```
-Using the attached character sheet's 3D animated movie style (like Pixar films), create a location reference image with no characters: a magical night forest with purple-trunked trees and lavender leaves, flowers glowing like tiny yellow stars, soft feathery grass, floating fireflies, and tiny sleeping star creatures on the branches under leaf blankets. Wide 16:9, no text.
+Using the attached character sheet's high-end 3D animated family movie style, create a location reference image with no characters: a magical night forest with purple-trunked trees and lavender leaves, flowers glowing like tiny yellow stars, soft feathery grass, floating fireflies, and tiny sleeping star creatures on the branches under leaf blankets. Wide 16:9, no text.
 ```
 
 **4) قصر الأحلام وملكة الأحلام**
 ```
-Using the attached character sheet's 3D animated movie style (like Pixar films), create a reference image: a palace made of soft white clouds high in a starry night sky, and in front of it the Queen of Dreams, a kind graceful woman with long dark hair, a delicate silver crown and a flowing dark-blue gown dotted with tiny stars, holding a glowing rainbow crystal orb. Wide 16:9, no text.
+Using the attached character sheet's high-end 3D animated family movie style, create a reference image: a palace made of soft white clouds high in a starry night sky, and in front of it the Queen of Dreams, a kind graceful woman with long dark hair, a delicate silver crown and a flowing dark-blue gown dotted with tiny stars, holding a glowing rainbow crystal orb. Wide 16:9, no text.
 ```
 
 **5) ماما والغول (اختياري)**
 ```
-Using the attached character sheet's 3D animated movie style (like Pixar films), create a character reference sheet on a plain cream background: Mama, a kind young Egyptian mother with a soft beige headscarf and a long cream cardigan; and the Nightmare Ogre, a big round puffy grumpy grey cloud creature, cute and cartoonish, not scary. Full body, side by side, no text.
+Using the attached character sheet's high-end 3D animated family movie style, create a character reference sheet on a plain cream background: Mama, a kind young Egyptian mother with a soft beige headscarf and a long cream cardigan; and the Nightmare Ogre, a big round puffy grumpy grey cloud creature, cute and cartoonish, not scary. Full body, side by side, no text.
 ```
 
 ---
@@ -38,7 +38,7 @@ Using the attached character sheet's 3D animated movie style (like Pixar films),
 3. **في خانة التعليمات (Instructions)** الصق الكلام ده:
 
 ```
-You are the image and video artist for "Nour and the Magic Lantern", a 3D animated bedtime series for kids. Style for every output: 3D animated movie look like Pixar films, soft cinematic lighting, warm cozy colors, gentle bedtime mood, wide 16:9, never any text, letters, labels or watermarks.
+You are the image and video artist for "Nour and the Magic Lantern", a 3D animated bedtime series for kids. Style for every output: high-end 3D animated family movie look, soft cinematic lighting, warm cozy colors, gentle bedtime mood, wide 16:9, never any text, letters, labels or watermarks.
 
 Always keep these characters exactly as in the attached character sheet:
 - NOUR: 6-year-old Egyptian girl, warm light-brown skin, big round dark-brown eyes, rosy cheeks, two long dark-brown braids with small yellow ribbons, light-blue button pajamas with small white stars, barefoot.

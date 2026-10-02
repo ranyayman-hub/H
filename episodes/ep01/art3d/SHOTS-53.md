@@ -8,7 +8,7 @@
 
 ### رسالة 1: اللقطات 01-1، 01-2، 02-1
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 01-1: WIDE SHOT: magical deep-navy night sky with twinkling stars, lavender clouds and a crescent moon; the golden lantern with its kind face floats small in the center glowing warm amber.
 
@@ -19,7 +19,7 @@ Shot 02-1: WIDE SHOT: a cozy Egyptian house at the end of a quiet cobblestone st
 
 ### رسالة 2: اللقطات 02-2، 03-1، 03-2
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 02-2: MEDIUM SHOT through the open window: Nour sits on her bed smiling with Mishmish curled at her feet, warm lamp light inside.
 
@@ -30,7 +30,7 @@ Shot 03-2: OVER-THE-SHOULDER SHOT from behind Mama: Nour points curiously at an 
 
 ### رسالة 3: اللقطات 03-3، 04-1، 04-2
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 03-3: CLOSE SHOT: Mama kisses Nour's forehead; the night lamp glows softly beside them.
 
@@ -41,7 +41,7 @@ Shot 04-2: CLOSE-UP: Nour's face on the pillow looking up at the crescent moon t
 
 ### رسالة 4: اللقطات 05-1، 05-2، 06-1
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 05-1: CLOSE-UP: the old lantern on the wooden shelf beginning to glow, first tiny golden sparkles appearing around it in the dark room.
 
@@ -52,7 +52,7 @@ Shot 06-1: MEDIUM SHOT: the glowing lantern floats beside the bed smiling; Nour 
 
 ### رسالة 5: اللقطات 06-2، 06-3، 06-4
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 06-2: CLOSE-UP: the lantern's kind face speaking gently, warm light, sparkles.
 
@@ -63,7 +63,7 @@ Shot 06-4: MEDIUM SHOT: Nour bouncing happily on her bed, arms up, the lantern g
 
 ### رسالة 6: اللقطات 07-1، 07-2، 07-3
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 07-1: MEDIUM SHOT: Nour floating out of her open bedroom window holding the lantern's ring, wrapped in golden light, night sky outside.
 
@@ -74,7 +74,7 @@ Shot 07-3: CLOSE-UP: Nour laughing with joy while flying, braids fluttering in t
 
 ### رسالة 7: اللقطات 08-1، 08-2، 08-3
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 08-1: WIDE SHOT: magical night forest with purple trees, flowers glowing like tiny stars and feathery grass; Nour and the lantern float down to land.
 
@@ -85,7 +85,7 @@ Shot 08-3: CLOSE-UP: tiny cute star creatures sleeping on purple branches under 
 
 ### رسالة 8: اللقطات 09-1، 10-1، 10-2
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 09-1: MEDIUM SHOT: Nour tiptoes between purple trees with a hand behind her ear, listening; the lantern lights the path.
 
@@ -96,7 +96,7 @@ Shot 10-2: CLOSE SHOT: Nour kneels and gently reaches toward Lumaa with a caring
 
 ### رسالة 9: اللقطات 11-1، 12-1، 12-2
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 11-1: MEDIUM SHOT: Nour sits on the grass with her hand on her cheek thinking; the lantern smiles wisely beside her; dim Lumaa looks hopeful.
 
@@ -107,7 +107,7 @@ Shot 12-2: CLOSE-UP: Lumaa giggling, her glow growing brighter and warmer yellow
 
 ### رسالة 10: اللقطات 13-1، 13-2، 14-1
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 13-1: MEDIUM SHOT: bright golden Lumaa lifting off the ground; Nour gasps happily.
 
@@ -118,7 +118,7 @@ Shot 14-1: MEDIUM SHOT: Lumaa back on the grass looking up worried at Nour; Nour
 
 ### رسالة 11: اللقطات 14-2، 15-1، 15-2
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 14-2: LOW-ANGLE SHOT looking up from the forest: a strange grey patch among the stars between purple tree tops.
 
@@ -129,7 +129,7 @@ Shot 15-2: MEDIUM SHOT: the Queen of Dreams (long dark hair, silver crown, flowi
 
 ### رسالة 12: اللقطات 15-3، 16-1، 17-1
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 15-3: WIDE SHOT: colorful dream bubbles drifting down from the sky toward tiny sleeping houses below.
 
@@ -140,7 +140,7 @@ Shot 17-1: CLOSE-UP: the rainbow crystal cracking into eight glowing shards in m
 
 ### رسالة 13: اللقطات 17-2، 18-1، 18-2
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 17-2: WIDE SHOT: eight glowing shards flying in different directions toward magical worlds below: candy town, sea, fiery mountains, moon, forest, desert, island, cloud kingdom. No characters.
 
@@ -151,7 +151,7 @@ Shot 18-2: MEDIUM SHOT: the glowing Queen of Dreams appears inside the blue beam
 
 ### رسالة 14: اللقطات 19-1، 19-2، 19-3
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 19-1: CLOSE SHOT: the Queen fastens a small silver necklace with eight empty star-shaped slots around Nour's neck.
 
@@ -162,7 +162,7 @@ Shot 19-3: CLOSE-UP: Nour looking up with a small brave smile, blue magical ligh
 
 ### رسالة 15: اللقطات 20-1، 20-2، 20-3
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 20-1: MEDIUM SHOT: Lumaa flies to Nour's side and the lantern glows brighter beside her in the glowing forest.
 
@@ -173,7 +173,7 @@ Shot 20-3: CLOSE SHOT: the necklace sparkling on Nour's neck while Lumaa sniffs 
 
 ### رسالة 16: اللقطات 20-4، 21-1، 21-2
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 20-4: MEDIUM SHOT: Nour yawning sleepily while the lantern's golden light wraps around her.
 
@@ -184,7 +184,7 @@ Shot 21-2: CLOSE-UP: the lantern back on the shelf, unlit, with a faint gentle s
 
 ### رسالة 17: اللقطات 21-3، 21-4، 22-1
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 3 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 21-3: SHOT through the window: one little star shining brighter than all the others in the navy sky.
 
@@ -195,7 +195,7 @@ Shot 22-1: WIDE SHOT: peaceful deep-navy night sky with lavender clouds and a cr
 
 ### رسالة 18: اللقطات 22-2، 22-3
 ```
-Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 2 separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
+Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. Generate 2 separate images, one for each shot below. Each image: high-end 3D animated family movie frame, soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.
 
 Shot 22-2: MEDIUM SHOT: the crescent moon glowing softly among soft clouds. No characters.
 

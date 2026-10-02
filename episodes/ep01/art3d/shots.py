@@ -56,7 +56,7 @@ S = [
 ]
 assert len(S) == 53
 head = ("Use the attached image as the character reference and keep Nour, Mishmish, the lantern and Lumaa exactly like it. "
-        "Generate {n} separate images, one for each shot below. Each image: 3D animated movie frame like Pixar films, "
+        "Generate {n} separate images, one for each shot below. Each image: high-end 3D animated family movie frame, "
         "soft cinematic lighting, cozy bedtime mood, wide 16:9, no text, no letters. Only the characters described in each shot appear.")
 tail = "Keep the characters and 3D style exactly as in the image. Gentle, slow, calm bedtime-story motion. No text, no dialogue, no lip movement, no music."
 out = ["# قائمة الـ 53 لقطة: الحلقة 1 (3D)\n",
