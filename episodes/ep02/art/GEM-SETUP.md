@@ -62,3 +62,12 @@ When I send shot descriptions, generate one separate image per shot, in order, a
 - سمّي كل صورة باسم اللقطة: `02-2.png`، `05-1.png`...
 - لو الشكل بدأ يتغير، افتح محادثة جديدة مع نفس الـ Gem
 - ابعتلي كل 3 صور، وأنا أراجعهم قبل ما نكمل
+
+---
+
+## من غير Gem (الطريقة البديلة)
+1. افتح **محادثة جديدة** في Gemini.
+2. ارفع المراجع اللي عندك: `ref-characters.jpg` و`ref-02-1-living-room.png`، ولما تعملهم ضيف كمان `ref-baskota.png` و`ref-candy-city.png` و`ref-cake-mountain.png`.
+3. الصق نص `KICKOFF.txt` كله ودوس إرسال. Gemini هيرد بـ «Ready».
+4. ابعتله رسايل `SHOTS-EP02.md` واحدة واحدة.
+5. **كل 3–4 رسايل افتح محادثة جديدة، وكرر الخطوات 2 و3.** ده عشان الشخصيات ما تتغيرش.
