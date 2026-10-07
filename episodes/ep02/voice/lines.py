@@ -8,7 +8,7 @@ VOICES = {
     'fanoos':   'x6fvBLXv9YxzoVJQ0wp6',  # Momen - warm, mature, calm
     'lumaa':    'jDniWbMLsNWghA1TR3e3',  # Lumaa - Hawadeet World (designed)
     'mama':     'JHdGl5PsEzushIzzVSd1',  # Heba - soothing, Egyptian
-    'baskota':  None,                    # Baskota - to be designed (playful gingerbread boy)
+    'baskota':  'K1k67X4shfgkvQtLXCQf',  # Baskota - Hawadeet World (designed, pick 1)
 }
 
 L = [
