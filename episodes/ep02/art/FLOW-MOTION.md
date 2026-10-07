@@ -26,9 +26,9 @@ Keep the characters, places and 3D style exactly as in the image. Gentle, slow b
 | 06-3 | `Baskota points far away toward the cake tower; Nour, Lumaa and the lantern turn to look; the giant cherry on top glows softly with pink light.` |
 | 07-1 | `The fluffy cotton-candy cloud drifts slowly through the night sky; Nour laughs and swings her feet; Baskota waves happily; Lumaa and the lantern fly alongside; city lights twinkle below.` |
 | 07-2 | `Colorful candy butterflies flutter gently around the cotton-candy cloud, wings shimmering, leaving tiny sparkles.` |
-| 08-1 | `Nour happily breaks off a piece of a sugar-glass window and takes a bite; Baskota laughs and claps; crumbs sparkle.` |
+| 08-1 | `Nour licks the big swirly lollipop happily and giggles; Baskota laughs and claps; sparkles float around the candy stand.` |
 | 09-1 | `Baskota and Lumaa bounce across the wobbly rainbow jelly bridge, which jiggles with each step; Nour waits at the start holding her tummy.` |
-| 10-2 | `The chubby sugar king snores on his cake throne, his tummy rising and falling; candy crumbs around him; soft dreamy haze, storybook feel.` |
+| 10-2 | `The chubby sugar king snores on his big cushion, his tummy rising and falling; candy wrappers flutter softly; dreamy storybook haze.` |
 | 11-1 | `Nour drinks clear sparkling water from her cupped hands at the mint spring; bubbles rise; mint leaves sway; Baskota smiles encouragingly.` |
 | 12-1 | `Nour bounces high and light across the jelly bridge, arms out like wings, laughing; the bridge jiggles; Lumaa and Baskota cheer on the far side.` |
 | 13-1 | `Slow camera tilt up the tall white sugar riddle gate with candy-cane pillars; the team stands small in front of it looking up; soft glow.` |

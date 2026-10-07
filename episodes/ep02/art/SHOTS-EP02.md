@@ -45,7 +45,7 @@ Shot 06-3: wide shot, Baskota points far away at the Cake Mountain with the glow
 Shot 07-1: in our Candy City at night, a big fluffy pink cotton-candy cloud floats gently above the rooftops; Nour sits on top of it laughing, Baskota with his tiny white chef hat sits beside her holding on happily; Lumaa and the lantern fly next to them; glowing lollipop lamps below.
 Shot 07-2: close shot in the night sky above Candy City: cute colorful butterflies made of candy, one red, two green and three yellow, flutter around the cotton-candy cloud leaving tiny sparkles.
 Shot 07-3 (TALKING, Lantern): the lantern floating beside the cotton-candy cloud, facing the camera straight on, warm smile with mouth closed, as if talking to the children watching; Candy City lights softly blurred below.
-Shot 08-1: on the riverbank, Nour happily bites a sugar-glass window of a biscuit house; Baskota laughs beside her.
+Shot 08-1: at a colorful candy stand on a Candy City street, Nour happily picks a big swirly lollipop and takes a lick, more candies in her other hand; Baskota with his chef hat laughs and claps beside her; sparkles in the air.
 Shot 08-2 (TALKING, Nour): Nour facing the camera with puffed cheeks full of candy, holding a big swirly lollipop and a pink cotton candy, crumbs on her pajamas.
 ```
 
@@ -59,7 +59,7 @@ Shot 09-2 (TALKING, Nour): Nour at the start of the jelly bridge facing the came
 ### رسالة 9
 ```
 Shot 10-1 (TALKING, Baskota): Baskota sitting on a big cookie stone facing the camera, telling a story with one hand raised, gentle smile; Nour sits beside him listening.
-Shot 10-2: storybook-style dreamy flashback: a round chubby jolly king made of sugar with a candy crown, fast asleep and snoring on a throne made of cake, surrounded by half-eaten candy windows and doors; soft hazy edges.
+Shot 10-2: storybook-style dreamy flashback: a round chubby jolly king made of sugar with a candy crown, fast asleep and snoring on a big soft cushion, surrounded by many empty candy wrappers and lollipop sticks; soft hazy edges.
 Shot 10-3 (TALKING, Lantern): the lantern facing the camera, kind and wise, glowing softly, Nour blurred beside it.
 ```
 
