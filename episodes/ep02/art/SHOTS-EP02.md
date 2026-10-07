@@ -42,13 +42,9 @@ Shot 06-2 (TALKING, Nour): Nour facing the camera, startled and amused, hands ne
 ### رسالة 6
 ```
 Shot 06-3: wide shot, Baskota points far away at the Cake Mountain with the glowing cherry on top; Nour, Lumaa and the lantern look where he points.
-Shot 07-1: a little boat made of wafer floating on the chocolate river; Baskota paddles with a biscuit oar at the back, Nour sits in the middle laughing, Lumaa and the lantern float above.
-Shot 07-2: colorful gummy fish (one red, two green, three yellow) jumping out of the chocolate river in shiny arcs; the wafer boat in the background.
-```
-
-### رسالة 7
-```
-Shot 07-3 (TALKING, Lantern): the lantern floating over the boat, facing the camera, smiling warmly as if talking to the children watching; the chocolate river behind.
+Shot 07-1: in our Candy City at night, a big fluffy pink cotton-candy cloud floats gently above the rooftops; Nour sits on top of it laughing, Baskota with his tiny white chef hat sits beside her holding on happily; Lumaa and the lantern fly next to them; glowing lollipop lamps below.
+Shot 07-2: close shot in the night sky above Candy City: cute colorful butterflies made of candy, one red, two green and three yellow, flutter around the cotton-candy cloud leaving tiny sparkles.
+Shot 07-3 (TALKING, Lantern): the lantern floating beside the cotton-candy cloud, facing the camera straight on, warm smile with mouth closed, as if talking to the children watching; Candy City lights softly blurred below.
 Shot 08-1: on the riverbank, Nour happily bites a sugar-glass window of a biscuit house; Baskota laughs beside her.
 Shot 08-2 (TALKING, Nour): Nour facing the camera with puffed cheeks full of candy, holding a big swirly lollipop and a pink cotton candy, crumbs on her pajamas.
 ```

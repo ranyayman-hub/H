@@ -24,8 +24,8 @@ Keep the characters, places and 3D style exactly as in the image. Gentle, slow b
 | 05-3 | `Lumaa twirls happily above the caramel-brown stream leaving golden sparkles; the lantern bobs gently; the stream flows slowly; lollipop lamps glow.` |
 | 05-4 | `The strawberry-juice fountain splashes gently; Nour laughs and holds her tummy; Lumaa bounces happily; the lantern glows warmly.` |
 | 06-3 | `Baskota points far away toward the cake tower; Nour, Lumaa and the lantern turn to look; the giant cherry on top glows softly with pink light.` |
-| 07-1 | `The round cookie boat drifts slowly on the syrup stream; Baskota rows with his biscuit oar; Nour laughs and dips her hand toward the stream; Lumaa and the lantern float alongside.` |
-| 07-2 | `Colorful jelly fish candies hop out of the syrup one after another in shiny arcs and splash back; the boat drifts in the blurred background.` |
+| 07-1 | `The fluffy cotton-candy cloud drifts slowly through the night sky; Nour laughs and swings her feet; Baskota waves happily; Lumaa and the lantern fly alongside; city lights twinkle below.` |
+| 07-2 | `Colorful candy butterflies flutter gently around the cotton-candy cloud, wings shimmering, leaving tiny sparkles.` |
 | 08-1 | `Nour happily breaks off a piece of a sugar-glass window and takes a bite; Baskota laughs and claps; crumbs sparkle.` |
 | 09-1 | `Baskota and Lumaa bounce across the wobbly rainbow jelly bridge, which jiggles with each step; Nour waits at the start holding her tummy.` |
 | 10-2 | `The chubby sugar king snores on his cake throne, his tummy rising and falling; candy crumbs around him; soft dreamy haze, storybook feel.` |

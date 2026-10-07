@@ -62,14 +62,14 @@ L = [
     (6, 'fanoos', 'إحنا بندوّر على حِتّة من بلّورة الأحلام يا بسكوتة. شُفت حاجة بتلمع وقعت من السما؟'),
     (6, 'baskota', '[excited] آه! وقعت من كام يوم فوق جبل التورتة... على الكريزة اللي فوق خالص!'),
 
-    # 7 — the wafer boat on the chocolate river
-    (7, 'baskota', 'الطريق لجبل التورتة أسرع من نهر الشوكولاتة. اركبوا معايا مركب الويفر!'),
-    (7, 'nour', '[excited] مركب من الويفر؟! هو مش هيدوب؟'),
-    (7, 'baskota', '[laughs] لا يا ستّي، ده ويفر مقرمش مخصوص... بس ماتاكليش الدفّة!'),
-    (7, 'SFX', 'a small boat paddling through thick bubbling liquid, gentle plops'),
-    (7, 'lumaa', '[excited] نور! بُصّي... سمك جيلي ملوّن بينُطّ من النهر!'),
+    # 7 — the cotton-candy cloud ride
+    (7, 'baskota', 'الطريق لجبل التورتة طويل... اركبوا معايا سحابة غزل البنات!'),
+    (7, 'nour', '[excited] سحابة من غزل البنات؟! هي مش هتدوب؟'),
+    (7, 'baskota', '[laughs] لا يا ستّي، دي سحابة سحرية... بس ماتاكليش منها!'),
+    (7, 'SFX', 'a soft magical whoosh of a floating cloud, gentle wind chimes'),
+    (7, 'lumaa', '[excited] نور! بُصّي... فراشات من الحلوى الملوّنة بتطير جنبنا!'),
     (7, 'nour', '[laughs] واحدة حمرا... واتنين خضرا... وتلاتة صفرا!'),
-    (7, 'fanoos', '[warmly, to the children] يلا يا أصحابي، عِدّوا معانا! كام سمكة جيلي شُفتوا؟'),
+    (7, 'fanoos', '[warmly, to the children] يلا يا أصحابي، عِدّوا معانا! كام فراشة شُفتوا؟'),
     (7, 'nour', '[giggles] تلاتة! برافو عليكم!'),
 
     # 8 — Nour eats and eats
