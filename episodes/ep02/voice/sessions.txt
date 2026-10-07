@@ -1,2 +1,3 @@
 scene1 lantern takes (flow 5NU2NUDLziaZBthxMOJs, ~820 credits): 01 c0swMn9t7vjMxrgn9uG2 x4zwqFszcdvCxTluXoVI | 02 wux2Qytkqm1d1OskepHe 3Y8e2C1sCvrWXRDFzh6s | 03 nbWNaAPfRnzYICPnZ6to T6XZmVLtFVPbRQF6qVBe | 04 SyP9ommZS6B90WtiIeQF twMWbqypFpW71REYxNqk(pending)
 lipsync test nodes: omnihuman h8YycMa2XSho2M2n3skb (est 3901) | ltx-a2v ngrdidu5g9PnEl3RwIWT (est 2111) - not run
+baskota design previews: 1 K1k67X4shfgkvQtLXCQf | 2 M1DVHRCatjKfuiuDSM21 | 3 rlY8PItqh9nDTT3oUO6p
