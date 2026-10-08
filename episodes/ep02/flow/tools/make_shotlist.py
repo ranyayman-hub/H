@@ -15,7 +15,7 @@ C=[
 ('C02','02-1',[7],'Nour pouts, tilts her head and swings her shoulders. After she speaks she looks up hopefully; her mother smiles tenderly and slowly closes the chocolate box. The cat yawns.','talk'),
 ('C03','02-3',[8],'','ready'),
 ('C04','02-1',[9,10],'Nour lowers her hands with a little sigh. Then her mother puts the chocolate box down and gently strokes Nour\'s hair.','talk'),
-('C05','02-4',[11,12],'Nour, lying under her blanket, smiles sleepily. After she speaks, her mother gently kisses her forehead, smiles and switches off the bedside lamp; the room softly dims to blue moonlight; the cat stays asleep.','talk'),
+('C05','02-4',[11,12],'Nour, lying under her blanket with closed eyes, smiles sleepily. While Nour speaks, her mother keeps her lips pressed on Nour\'s forehead in a long silent kiss and does not talk at all. After Nour finishes, the mother slowly lifts her head, smiles silently and switches off the bedside lamp; the room softly dims to blue moonlight; the cat stays asleep. The mother never speaks in this video.','talk'),
 ('C06','03-0',[13],'Nour sleeps peacefully; the lantern beside the bed slowly lights up with a warm colorful glow and sparkles; outside the window Lumaa twinkles and bobs.','vo'),
 ('C07','03-1',[14],'Nour sits up in bed, eyes widening with wonder, and leans toward the glowing lantern. The lantern floats and turns gently with swirling sparkles.','talk'),
 ('C08','03-2',[15],'','ready'),
@@ -113,7 +113,7 @@ for cid,img,ls,motion,mode in C:
             name,voice=WHO[sp]; t=tags(tx)
             p+=f'{"Right at the start, " if first else "Then "}{name} says{" ("+t+")" if t else ""} in Egyptian Arabic with {voice}:\n"{clean(tx)}"\n'
             first=False
-        p+='Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.\n'
+        p+='Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.\n'
     else:
         p+='Nobody talks; all mouths stay closed.\n'
     p+=TAIL
