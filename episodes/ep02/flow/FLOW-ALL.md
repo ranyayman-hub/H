@@ -119,7 +119,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `020` **fanoos**: امسكي الحلقة كويس... وعِدّي معايا.
 - `021` **nour**: واحد... اتنين... تلاتة!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The lantern floats down next to Nour and offers its silver ring; Nour grabs the ring with both hands, excited.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The lantern floats gently a little closer to Nour; Nour smiles excitedly and reaches up to hold the lantern's silver ring with one hand.
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says in Egyptian Arabic with a warm, kind, wise male voice:
 "امسكي الحلقة كويس... وعِدّي معايا."
 Then the little girl Nour says (excited) in Egyptian Arabic with a cute, sweet cartoon girl voice:
@@ -249,7 +249,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ## C22: صورة 06-1 (🗣️ كلام، 3.8 ث)
 - `032` **baskota**: أهلًا أهلًا أهلًا! نوّرتوا مدينة الحلويات!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota pops out from behind the biscuit house with arms wide open, bouncing cheerfully.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota waves both arms cheerfully and bounces happily in place next to the biscuit house.
 Right at the start, Baskota, the gingerbread boy with the white chef hat says (cheerful, loud) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "أهلًا أهلًا أهلًا! نوّرتوا مدينة الحلويات!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
@@ -282,10 +282,10 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 
 ---
 
-## C25: صورة 05-4 (🗣️ كلام، 4.4 ث)
+## C25: صورة 06-3 (🗣️ كلام، 4.4 ث)
 - `035` **lumaa**: أنا لُمعة! وده الفانوس، ودي صاحبتي نور.
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Lumaa floats forward and waves; she points to the lantern and then to Nour.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Lumaa floats forward a little and waves; she points to the lantern and then to Nour.
 Right at the start, Lumaa, the little glowing star says (cheerful) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "أنا لُمعة! وده الفانوس، ودي صاحبتي نور."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
@@ -294,10 +294,10 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 
 ---
 
-## C26: صورة 05-4 (🗣️ كلام، 5.3 ث)
+## C26: صورة 06-3 (🗣️ كلام، 5.3 ث)
 - `036` **fanoos**: إحنا بندوّر على حِتّة من بلّورة الأحلام يا بسكوتة. شُفت حاجة بتلمع وقعت من السما؟
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The lantern floats forward, glowing softly, turning to look down at someone small just out of frame.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The lantern floats forward a little, glowing softly, turning toward the little gingerbread boy.
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says in Egyptian Arabic with a warm, kind, wise male voice:
 "إحنا بندوّر على حِتّة من بلّورة الأحلام يا بسكوتة. شُفت حاجة بتلمع وقعت من السما؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
@@ -365,13 +365,11 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 
 ---
 
-## C32: صورة 07-1 (🗣️ كلام، 5.7 ث)
+## C32: صورة 07-2 (🎙️ صوت من برّه، 5.7 ث)
 - `043` **nour**: واحدة حمرا... واتنين خضرا... وتلاتة صفرا!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour points at butterflies one by one as she counts, laughing; candy butterflies flutter around the cloud.
-Right at the start, the little girl Nour says (laughs) in Egyptian Arabic with a cute, sweet cartoon girl voice:
-"واحدة حمرا... واتنين خضرا... وتلاتة صفرا!"
-Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Slow camera drift across the colorful candy butterflies (one red, two green, three yellow) fluttering gently around the cotton-candy cloud, wings shimmering, leaving tiny sparkles.
+Nobody talks; all mouths stay closed.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
@@ -428,7 +426,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ## C37: صورة 08-1 (🗣️ كلام، 4.0 ث)
 - `048` **nour**: والبونبوناية دي طعمها لمون! ودي... كراميل!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour grabs more candies from the stand and tastes them happily; Baskota laughs and claps.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour happily takes another big lick of her lollipop and a bite of pink cotton candy; Baskota laughs and claps beside her.
 Right at the start, the little girl Nour says (munching) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "والبونبوناية دي طعمها لمون! ودي... كراميل!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
@@ -452,8 +450,8 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ## C39: صورة 08-2 (🗣️ كلام، 5.1 ث)
 - `050` **nour**: واحدة كمان بس! ومصّاصة كمان... وحِتّة غزل بنات...
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour, cheeks full of candy, reaches for more, holding the lollipop and cotton candy.
-Right at the start, the little girl Nour says (mouth full) in Egyptian Arabic with a cute, sweet cartoon girl voice:
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour, cheeks full of candy, happily lifts her lollipop and pink cotton candy.
+Right at the start, the little girl Nour says (mouth full of candy) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "واحدة كمان بس! ومصّاصة كمان... وحِتّة غزل بنات..."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
@@ -461,11 +459,13 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 
 ---
 
-## C40: صورة 08-2 (🎙️ صوت من برّه، 2.3 ث)
+## C40: صورة 08-3 (🗣️ كلام، 2.3 ث)
 - `051` **fanoos**: نور يا حبيبتي... إحنا لسه في أوّل الطريق.
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour stops chewing, cheeks still full, and looks up a little guiltily.
-Nobody talks; all mouths stay closed.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The lantern at the right glows softly and speaks kindly; Lumaa looks at Nour, a little worried.
+Right at the start, the golden lantern (its kind face glows inside the colored glass) says (calmly) in Egyptian Arabic with a warm, kind, wise male voice:
+"نور يا حبيبتي... إحنا لسه في أوّل الطريق."
+Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
@@ -475,7 +475,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 - `052` **SFX**: (مؤثر: wobbly jelly bouncing sounds, boing boing)
 - `053` **baskota**: لازم نعدّي جسر الجيلي ده عشان نوصل للجبل. بننُطّ نطّة نطّة!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota bounces on the wobbly rainbow jelly bridge, which jiggles with each step, waving everyone to follow.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota hops onto the wobbly rainbow jelly bridge, which jiggles like jelly, and waves everyone to follow.
 Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "لازم نعدّي جسر الجيلي ده عشان نوصل للجبل. بننُطّ نطّة نطّة!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
@@ -501,9 +501,9 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `056` **nour**: مش قادرة أنُطّ... حاسّة إني تقيلة.
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour holds her tummy with both hands and makes a tired, sad little face, like she ate too much candy.
-Right at the start, the little girl Nour says (groans) in Egyptian Arabic with a cute, sweet cartoon girl voice:
+Right at the start, the little girl Nour says (tired) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "آه... استنّوا... بطني بتوجعني أوي..."
-Then the little girl Nour says (almost crying) in Egyptian Arabic with a cute, sweet cartoon girl voice:
+Then the little girl Nour says (sad) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "مش قادرة أنُطّ... حاسّة إني تقيلة."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
@@ -537,7 +537,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `059` **nour**: مية سنة؟!
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour gives a small weak laugh; Baskota smiles and listens.
-Right at the start, the little girl Nour says (weak laugh) in Egyptian Arabic with a cute, sweet cartoon girl voice:
+Right at the start, the little girl Nour says (small laugh) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "مية سنة؟!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
@@ -557,14 +557,14 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 
 ---
 
-## C48: صورة 10-1 (🗣️ كلام، 2.2 ث)
+## C48: صورة 10-3 (🗣️ كلام، 2.2 ث)
 - `061` **nour**: ماما قالتلي نفس الكلام النهارده...
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour looks down thoughtfully and speaks quietly; Baskota listens.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour looks down thoughtfully and speaks quietly; the lantern listens with a kind smile.
 Right at the start, the little girl Nour says (quietly) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "ماما قالتلي نفس الكلام النهارده..."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -573,7 +573,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `062` **baskota**: تعالي! هنا عندنا نبع النعناع. اشربي شويّة... هيريّح بطنك.
 - `063` **SFX**: (مؤثر: gentle trickling spring water)
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota points happily at the mint spring. Then Nour kneels and drinks clear sparkling water from her cupped hands; bubbles rise; mint leaves sway.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota points happily at the mint spring; Nour bends down and drinks the clear sparkling water from her cupped hands; bubbles rise; mint leaves sway.
 Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "تعالي! هنا عندنا نبع النعناع. اشربي شويّة... هيريّح بطنك."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
@@ -694,7 +694,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 ## C59: صورة 13-3 (🗣️ كلام، 2.5 ث)
 - `076` **nour**: السُّكّر! هو السُّكّر!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour's face lights up with a happy idea and she jumps a little.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour's face lights up with a happy idea and she smiles widely.
 Right at the start, the little girl Nour says (happy) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "السُّكّر! هو السُّكّر!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
@@ -707,7 +707,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `077` **SFX**: (مؤثر: a magical gate swinging open with a sparkling chime)
 - `078` **baskota**: البوابة اتفتحت! إنتي شاطرة أوي يا نور!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The riddle gate swings open with a burst of sparkles; Baskota jumps happily and cheers; Lumaa twirls.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Sparkles burst from the open riddle gate; Baskota hops happily and cheers; Lumaa twirls; Nour cheers with both arms up.
 Nobody talks; all mouths stay closed.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
