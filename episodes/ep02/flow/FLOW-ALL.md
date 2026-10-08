@@ -65,7 +65,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour sleeps peacefully; the lantern beside the bed slowly lights up with a warm colorful glow and sparkles; outside the window Lumaa twinkles and bobs.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -77,7 +77,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the little girl Nour says (whispers) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "يا فانوس... إنت صاحي؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -125,7 +125,7 @@ Right at the start, the golden lantern (its kind face glows inside the colored g
 Then the little girl Nour says (excited) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "واحد... اتنين... تلاتة!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -135,7 +135,7 @@ The lantern's kind face always stays clearly visible on its glass; its glow neve
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. A dreamy magical storybook moment: Nour floats gently and calmly through the soft night sky, smiling, holding the glowing lantern's ring; Lumaa floats beside her leaving sparkles; the city lights twinkle far below. Slow, calm camera follow.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -159,7 +159,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the little girl Nour says (laughs) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "بطني بتزقزق من دلوقتي!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -169,7 +169,7 @@ The lantern's kind face always stays clearly visible on its glass; its glow neve
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Slow camera push-in toward Candy City; Nour, Lumaa and the lantern float down softly and slowly like feathers toward the candy street; lollipop lamps twinkle; cotton-candy trees sway.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -193,7 +193,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, Lumaa, the little glowing star says (delighted) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "وبُصّي يا نور! نهر شوكولاتة!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -205,7 +205,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says in Egyptian Arabic with a warm, kind, wise male voice:
 "والشجر ده كله غزل البنات... والأعمدة اللي في الشارع مصّاصات!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -217,7 +217,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (amused) in Egyptian Arabic with a warm, kind, wise male voice:
 "وشايفة النافورة دي؟ بتطلّع عصير فراولة بدل المية!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -289,7 +289,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, Lumaa, the little glowing star says (cheerful) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "أنا لُمعة! وده الفانوس، ودي صاحبتي نور."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -301,7 +301,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says in Egyptian Arabic with a warm, kind, wise male voice:
 "إحنا بندوّر على حِتّة من بلّورة الأحلام يا بسكوتة. شُفت حاجة بتلمع وقعت من السما؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -313,7 +313,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, Baskota, the gingerbread boy with the white chef hat says (excited) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "آه! وقعت من كام يوم فوق جبل التورتة... على الكريزة اللي فوق خالص!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -350,7 +350,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, Baskota, the gingerbread boy with the white chef hat says (laughs) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "لا يا ستّي، دي سحابة سحرية... بس ماتاكليش منها!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -384,7 +384,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (warmly, to the children) in Egyptian Arabic with a warm, kind, wise male voice:
 "يلا يا أصحابي، عِدّوا معانا! كام فراشة شُفتوا؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -466,7 +466,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour stops chewing, cheeks still full, and looks up a little guiltily.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -552,7 +552,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (warmly) in Egyptian Arabic with a warm, kind, wise male voice:
 "الحلويات حلوة يا نور... بس الحِلو حِلو لما يبقى بمقدار. حِتّة صغيرة بتفرّحنا، والكتير بيتعبنا."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -650,7 +650,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The team stands in front of the closed riddle gate; Baskota holds his head worried; Lumaa turns to the lantern.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -662,7 +662,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (playful, reading) in Egyptian Arabic with a warm, kind, wise male voice:
 "حاجة بيضا وحلوة... بتدوب في الشاي... ولو كتّرنا منها، سنانّا تزعل... أنا مين؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -686,7 +686,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (to the children) in Egyptian Arabic with a warm, kind, wise male voice:
 "فكّروا معانا يا أصحابي... عرفتوا؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -741,7 +741,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The pink crystal shard glows brighter; the lantern floats closer to it, glowing warmly.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -801,7 +801,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour hugs the bonbon to her chest and smiles proudly.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -813,7 +813,7 @@ The lantern's kind face always stays clearly visible on its glass; its glow neve
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour, holding the lantern's ring, and Lumaa float up softly and calmly into the starry sky above Candy City; Baskota waves goodbye from below; slow camera pull-back.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -836,7 +836,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour lies down slowly, smiling sleepily, and looks toward the window.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -846,5 +846,5 @@ The lantern's kind face always stays clearly visible on its glass; its glow neve
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour sleeps peacefully with a gentle smile; the lantern on the shelf dims slowly; one star outside the window twinkles brighter than the others.
 Nobody talks; all mouths stay closed.
-The lantern's kind face always stays clearly visible on its glass; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
+The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
