@@ -7,7 +7,7 @@ WHO={'nour':('the little girl Nour','a cute, sweet cartoon girl voice'),
  'mama':('her mother (kind young Egyptian mother, beige headscarf)','a warm, gentle young mother voice'),
  'fanoos':('the golden lantern (its kind face glows inside the colored glass)','a warm, kind, wise male voice'),
  'lumaa':('Lumaa, the little glowing star','a tiny, high, cheerful little-girl voice'),
- 'baskota':('Baskota, the gingerbread boy with the white chef hat','a playful, cheerful little-boy voice')}
+ 'baskota':('Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons','a playful, cheerful little-boy voice')}
 TAIL='Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.'
 # (clip, image, lines, motion, mode)  mode: talk = lip-sync in Flow, vo = voice-over (mouths closed), ready = already done
 C=[
@@ -36,7 +36,7 @@ C=[
 ('C23','06-2',[33],'Nour steps back a little, startled and amused, looking down at the small gingerbread boy just out of frame.','talk'),
 ('C24','06-1',[34],'Baskota puts a hand on his chest proudly, then points up curiously at the little star.','talk'),
 ('C25','06-3',[35],'Lumaa floats forward a little and waves; she points to the lantern and then to Nour.','talk'),
-('C26','06-3',[36],'The lantern floats forward a little, glowing softly, turning toward the little gingerbread boy.','talk'),
+('C26','06-3',[36],'The lantern floats forward a little, glowing softly, turning toward the little cookie character Baskota.','talk'),
 ('C27','06-3',[37],'Baskota jumps and points far away at the Cake Mountain; Nour, Lumaa and the lantern turn to look; the giant cherry on top glows softly with pink light.','talk'),
 ('C28','07-1',[38],'The fluffy cotton-candy cloud drifts slowly; Baskota waves everyone to come aboard, happily.','talk'),
 ('C29','07-1',[39],'Nour pats the cotton-candy cloud curiously, surprised.','talk'),

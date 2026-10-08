@@ -250,7 +250,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `032` **baskota**: أهلًا أهلًا أهلًا! نوّرتوا مدينة الحلويات!
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota waves both arms cheerfully and bounces happily in place next to the biscuit house.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says (cheerful, loud) in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says (cheerful, loud) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "أهلًا أهلًا أهلًا! نوّرتوا مدينة الحلويات!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -274,7 +274,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `034` **baskota**: اسمي بسكوتة! أنا الدليل بتاع المدينة. ومين النجمة الحلوة دي؟
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota puts a hand on his chest proudly, then points up curiously at the little star.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says (laughs) in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says (laughs) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "اسمي بسكوتة! أنا الدليل بتاع المدينة. ومين النجمة الحلوة دي؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -297,7 +297,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 ## C26: صورة 06-3 (🗣️ كلام، 5.3 ث)
 - `036` **fanoos**: إحنا بندوّر على حِتّة من بلّورة الأحلام يا بسكوتة. شُفت حاجة بتلمع وقعت من السما؟
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The lantern floats forward a little, glowing softly, turning toward the little gingerbread boy.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The lantern floats forward a little, glowing softly, turning toward the little cookie character Baskota.
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says in Egyptian Arabic with a warm, kind, wise male voice:
 "إحنا بندوّر على حِتّة من بلّورة الأحلام يا بسكوتة. شُفت حاجة بتلمع وقعت من السما؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
@@ -310,7 +310,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 - `037` **baskota**: آه! وقعت من كام يوم فوق جبل التورتة... على الكريزة اللي فوق خالص!
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota jumps and points far away at the Cake Mountain; Nour, Lumaa and the lantern turn to look; the giant cherry on top glows softly with pink light.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says (excited) in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says (excited) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "آه! وقعت من كام يوم فوق جبل التورتة... على الكريزة اللي فوق خالص!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -322,7 +322,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 - `038` **baskota**: الطريق لجبل التورتة طويل... اركبوا معايا سحابة غزل البنات!
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The fluffy cotton-candy cloud drifts slowly; Baskota waves everyone to come aboard, happily.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "الطريق لجبل التورتة طويل... اركبوا معايا سحابة غزل البنات!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -347,7 +347,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `041` **SFX**: (مؤثر: a soft magical whoosh of a floating cloud, gentle wind chimes)
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota laughs and wags his finger playfully at Nour. Then the fluffy cloud drifts slowly and calmly over the candy rooftops; Lumaa and the lantern float alongside.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says (laughs) in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says (laughs) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "لا يا ستّي، دي سحابة سحرية... بس ماتاكليش منها!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -403,7 +403,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `046` **baskota**: بس الطريق طويل. ولو جعانين، كل حاجة هنا ممكن تتّاكل!
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota spreads his arms toward the candy stand, inviting; sparkles float.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "بس الطريق طويل. ولو جعانين، كل حاجة هنا ممكن تتّاكل!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -476,7 +476,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 - `053` **baskota**: لازم نعدّي جسر الجيلي ده عشان نوصل للجبل. بننُطّ نطّة نطّة!
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota hops onto the wobbly rainbow jelly bridge, which jiggles softly, and waves everyone to follow.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "لازم نعدّي جسر الجيلي ده عشان نوصل للجبل. بننُطّ نطّة نطّة!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -515,7 +515,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `057` **baskota**: تعرفي يا نور؟ زمان كان عندنا ملك اسمه الملك سُكّر. كان بياكل كل حاجة حلوة يشوفها...
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota, sitting on the big cookie stone, tells a story with one hand raised; Nour sits beside him listening quietly with her mouth closed.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says (gently) in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says (gently) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "تعرفي يا نور؟ زمان كان عندنا ملك اسمه الملك سُكّر. كان بياكل كل حاجة حلوة يشوفها..."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -574,7 +574,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 - `063` **SFX**: (مؤثر: gentle trickling spring water)
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota points happily at the mint spring; Nour bends down and drinks the clear sparkling water from her cupped hands; bubbles rise; mint leaves sway.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "تعالي! هنا عندنا نبع النعناع. اشربي شويّة... هيريّح بطنك."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -613,7 +613,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `067` **baskota**: جاهزين؟ نطّة... نطّة... نطّة!
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota on the far side of the jelly bridge cheers and claps, calling Nour to hop across.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says (cheerful) in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says (cheerful) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "جاهزين؟ نطّة... نطّة... نطّة!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
@@ -773,7 +773,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `087` **baskota**: يا نور، خُدي دي هدية منّي... أحلى بونبوناية في المدينة كلها.
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota holds up the shiny wrapped bonbon as a gift with a proud smile.
-Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
+Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "يا نور، خُدي دي هدية منّي... أحلى بونبوناية في المدينة كلها."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
