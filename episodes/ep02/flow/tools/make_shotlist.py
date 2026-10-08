@@ -116,6 +116,7 @@ for cid,img,ls,motion,mode in C:
         p+='Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.\n'
     else:
         p+='Nobody talks; all mouths stay closed.\n'
+    if 'lantern' in motion.lower() or any(L[i][1]=='fanoos' for i in ls): p+='The lantern\'s kind face always stays clearly visible on its glass; its glow never hides the face. '
     p+=TAIL
     out.append(f'```\n{p}\n```\n')
     ip=next(f'{EP}/images/{img}.{e}' for e in ('png','jpg') if os.path.exists(f'{EP}/images/{img}.{e}'))
