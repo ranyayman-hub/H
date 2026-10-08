@@ -261,7 +261,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ## C23: صورة 06-2 (🗣️ كلام، 2.5 ث)
 - `033` **nour**: إنت... إنت بسكوتة بتتكلم؟!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour steps back a little, startled and amused, looking down at the small gingerbread boy just out of frame.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour steps back a little, startled and amused, looking down at the small cookie character Baskota just out of frame.
 Right at the start, the little girl Nour says (startled) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "إنت... إنت بسكوتة بتتكلم؟!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.

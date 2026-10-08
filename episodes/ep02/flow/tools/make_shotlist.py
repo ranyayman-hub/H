@@ -33,7 +33,7 @@ C=[
 ('C20','05-4',[30],'Nour laughs and holds her tummy next to the fountain; Lumaa bounces happily.','talk'),
 ('C21','05-2',[31],'Nour clasps her hands near her chest, looking around with sparkling eyes.','talk'),
 ('C22','06-1',[32],'Baskota waves both arms cheerfully and bounces happily in place next to the biscuit house.','talk'),
-('C23','06-2',[33],'Nour steps back a little, startled and amused, looking down at the small gingerbread boy just out of frame.','talk'),
+('C23','06-2',[33],'Nour steps back a little, startled and amused, looking down at the small cookie character Baskota just out of frame.','talk'),
 ('C24','06-1',[34],'Baskota puts a hand on his chest proudly, then points up curiously at the little star.','talk'),
 ('C25','06-3',[35],'Lumaa floats forward a little and waves; she points to the lantern and then to Nour.','talk'),
 ('C26','06-3',[36],'The lantern floats forward a little, glowing softly, turning toward the little cookie character Baskota.','talk'),
