@@ -22,7 +22,7 @@ Animate this exact image. Nour pouts, tilts her head and swings her shoulders. A
 Right at the start, the little girl Nour says (whining) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "بس هي حلوة أوي يا ماما..."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -42,7 +42,7 @@ Right at the start, the little girl Nour says (sighs) in Egyptian Arabic with a 
 Then her mother (kind young Egyptian mother, beige headscarf) says (softly) in Egyptian Arabic with a warm, gentle young mother voice:
 "يلا يا قمر، النوم. تصبحي على خير."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -55,7 +55,7 @@ Animate this exact image. Nour, lying under her blanket, smiles sleepily. After 
 Right at the start, the little girl Nour says (sleepy) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "وإنتي من أهله يا ماما."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -65,7 +65,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Nour sleeps peacefully; the lantern beside the bed slowly lights up with a warm colorful glow and sparkles; outside the window Lumaa twinkles and bobs.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -77,7 +77,7 @@ Animate this exact image. Nour sits up in bed, eyes widening with wonder, and le
 Right at the start, the little girl Nour says (whispers) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "يا فانوس... إنت صاحي؟"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -95,7 +95,7 @@ Animate this exact image. Lumaa taps the window glass twice with her little arm,
 Right at the start, Lumaa, the little glowing star says (excited) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "نور! نور! أنا هنا!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -110,7 +110,7 @@ Right at the start, the little girl Nour says (happy) in Egyptian Arabic with a 
 Then Lumaa, the little glowing star says (excited) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "يلا بسرعة! العُقد بيلمع... يعني حِتّة البلّورة قريبة!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -125,7 +125,7 @@ Right at the start, the golden lantern (its kind face glows inside the colored g
 Then the little girl Nour says (excited) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "واحد... اتنين... تلاتة!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -135,7 +135,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Nour flies forward joyfully holding the lantern's ring, braids fluttering in the wind; Lumaa swoops beside her leaving sparkles; the city lights twinkle below; slow camera follow.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -147,7 +147,7 @@ Animate this exact image. Lumaa flies close to camera, closes her eyes and sniff
 Right at the start, Lumaa, the little glowing star says (sniffs) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "شامّة الريحة دي يا نور؟ شوكولاتة... وفانيليا... وفراولة!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -159,7 +159,7 @@ Animate this exact image. Nour laughs while flying and holds her tummy with one 
 Right at the start, the little girl Nour says (laughs) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "بطني بتزقزق من دلوقتي!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -169,7 +169,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Slow camera push-in toward Candy City; Nour, Lumaa and the lantern glide gently down from the sky toward the street; lollipop lamps twinkle; cotton-candy trees sway.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -181,7 +181,7 @@ Animate this exact image. Nour looks around amazed, turning her head from the bi
 Right at the start, the little girl Nour says (amazed) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "واااو! البيوت معمولة من البسكوت! والشبابيك من السُّكّر الملوّن!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -193,7 +193,7 @@ Animate this exact image. Lumaa twirls happily above the chocolate river, pointi
 Right at the start, Lumaa, the little glowing star says (delighted) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "وبُصّي يا نور! نهر شوكولاتة!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -205,7 +205,7 @@ Animate this exact image. The lantern floats closer to camera and turns toward t
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says in Egyptian Arabic with a warm, kind, wise male voice:
 "والشجر ده كله غزل البنات... والأعمدة اللي في الشارع مصّاصات!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -217,7 +217,7 @@ Animate this exact image. The strawberry-juice fountain splashes gently; the lan
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (amused) in Egyptian Arabic with a warm, kind, wise male voice:
 "وشايفة النافورة دي؟ بتطلّع عصير فراولة بدل المية!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -229,7 +229,7 @@ Animate this exact image. Nour laughs and holds her tummy next to the fountain; 
 Right at the start, the little girl Nour says (laughs) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "لو مشمش شافت المدينة دي... كانت هتاكل الرصيف كله!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -241,7 +241,7 @@ Animate this exact image. Nour clasps her hands near her chest, looking around w
 Right at the start, the little girl Nour says (amazed) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "دي أحلى مدينة شُفتها في حياتي!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -253,7 +253,7 @@ Animate this exact image. Baskota pops out from behind the biscuit house with ar
 Right at the start, Baskota, the gingerbread boy with the white chef hat says (cheerful, loud) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "أهلًا أهلًا أهلًا! نوّرتوا مدينة الحلويات!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -265,7 +265,7 @@ Animate this exact image. Nour steps back a little, startled and amused, looking
 Right at the start, the little girl Nour says (startled) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "إنت... إنت بسكوتة بتتكلم؟!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -277,7 +277,7 @@ Animate this exact image. Baskota puts a hand on his chest proudly, then points 
 Right at the start, Baskota, the gingerbread boy with the white chef hat says (laughs) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "اسمي بسكوتة! أنا الدليل بتاع المدينة. ومين النجمة الحلوة دي؟"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -289,7 +289,7 @@ Animate this exact image. Lumaa floats forward and waves; she points to the lant
 Right at the start, Lumaa, the little glowing star says (cheerful) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "أنا لُمعة! وده الفانوس، ودي صاحبتي نور."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -301,7 +301,7 @@ Animate this exact image. The lantern floats forward, glowing softly, turning to
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says in Egyptian Arabic with a warm, kind, wise male voice:
 "إحنا بندوّر على حِتّة من بلّورة الأحلام يا بسكوتة. شُفت حاجة بتلمع وقعت من السما؟"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -313,7 +313,7 @@ Animate this exact image. Baskota jumps and points far away at the Cake Mountain
 Right at the start, Baskota, the gingerbread boy with the white chef hat says (excited) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "آه! وقعت من كام يوم فوق جبل التورتة... على الكريزة اللي فوق خالص!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -325,7 +325,7 @@ Animate this exact image. The fluffy cotton-candy cloud drifts slowly; Baskota w
 Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "الطريق لجبل التورتة طويل... اركبوا معايا سحابة غزل البنات!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -337,7 +337,7 @@ Animate this exact image. Nour pats the cotton-candy cloud curiously, surprised.
 Right at the start, the little girl Nour says (excited) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "سحابة من غزل البنات؟! هي مش هتدوب؟"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -350,7 +350,7 @@ Animate this exact image. Baskota laughs and wags his finger playfully at Nour. 
 Right at the start, Baskota, the gingerbread boy with the white chef hat says (laughs) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "لا يا ستّي، دي سحابة سحرية... بس ماتاكليش منها!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -360,7 +360,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Colorful candy butterflies (one red, two green, three yellow) flutter gently around the cotton-candy cloud, wings shimmering, leaving tiny sparkles.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -372,7 +372,7 @@ Animate this exact image. Nour points at butterflies one by one as she counts, l
 Right at the start, the little girl Nour says (laughs) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "واحدة حمرا... واتنين خضرا... وتلاتة صفرا!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -384,7 +384,7 @@ Animate this exact image. The lantern floats beside the cloud, looking straight 
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (warmly, to the children) in Egyptian Arabic with a warm, kind, wise male voice:
 "يلا يا أصحابي، عِدّوا معانا! كام فراشة شُفتوا؟"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -396,7 +396,7 @@ Animate this exact image. Nour claps happily toward the camera, giggling.
 Right at the start, the little girl Nour says (giggles) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "تلاتة! برافو عليكم!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -408,7 +408,7 @@ Animate this exact image. Baskota spreads his arms toward the candy stand, invit
 Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "بس الطريق طويل. ولو جعانين، كل حاجة هنا ممكن تتّاكل!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -420,7 +420,7 @@ Animate this exact image. Nour licks the big swirly lollipop and chews happily w
 Right at the start, the little girl Nour says (delighted, munching) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "بجد؟! مممم... المصّاصة دي طعمها فراولة!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -432,7 +432,7 @@ Animate this exact image. Nour grabs more candies from the stand and tastes them
 Right at the start, the little girl Nour says (munching) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "والبونبوناية دي طعمها لمون! ودي... كراميل!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -444,7 +444,7 @@ Animate this exact image. Lumaa looks worried, her glow slightly dimmer, little 
 Right at the start, Lumaa, the little glowing star says (worried) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "نور... كفاية كده؟"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -456,7 +456,7 @@ Animate this exact image. Nour, cheeks full of candy, reaches for more, holding 
 Right at the start, the little girl Nour says (mouth full) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "واحدة كمان بس! ومصّاصة كمان... وحِتّة غزل بنات..."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -466,7 +466,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Nour stops chewing, cheeks still full, and looks up a little guiltily.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -479,7 +479,7 @@ Animate this exact image. Baskota bounces on the wobbly rainbow jelly bridge, wh
 Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "لازم نعدّي جسر الجيلي ده عشان نوصل للجبل. بننُطّ نطّة نطّة!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -491,7 +491,7 @@ Animate this exact image. Lumaa bounces across the jelly bridge, twirling happil
 Right at the start, Lumaa, the little glowing star says (playful) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "بوينج! بوينج! سهلة خالص!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -506,7 +506,7 @@ Right at the start, the little girl Nour says (groans) in Egyptian Arabic with a
 Then the little girl Nour says (almost crying) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "مش قادرة أنُطّ... حاسّة إني تقيلة."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -518,7 +518,7 @@ Animate this exact image. Baskota, sitting on the big cookie stone, tells a stor
 Right at the start, Baskota, the gingerbread boy with the white chef hat says (gently) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "تعرفي يا نور؟ زمان كان عندنا ملك اسمه الملك سُكّر. كان بياكل كل حاجة حلوة يشوفها..."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -528,7 +528,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. The chubby sugar king snores on his big cushion, his tummy rising and falling; candy wrappers flutter softly; dreamy storybook haze.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -540,7 +540,7 @@ Animate this exact image. Nour gives a small weak laugh; Baskota smiles and list
 Right at the start, the little girl Nour says (weak laugh) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "مية سنة؟!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -552,7 +552,7 @@ Animate this exact image. The lantern glows softly and speaks kindly and wisely,
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (warmly) in Egyptian Arabic with a warm, kind, wise male voice:
 "الحلويات حلوة يا نور... بس الحِلو حِلو لما يبقى بمقدار. حِتّة صغيرة بتفرّحنا، والكتير بيتعبنا."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -564,7 +564,7 @@ Animate this exact image. Nour looks down thoughtfully and speaks quietly; Basko
 Right at the start, the little girl Nour says (quietly) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "ماما قالتلي نفس الكلام النهارده..."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -577,7 +577,7 @@ Animate this exact image. Baskota points happily at the mint spring. Then Nour k
 Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "تعالي! هنا عندنا نبع النعناع. اشربي شويّة... هيريّح بطنك."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -589,7 +589,7 @@ Animate this exact image. Nour lifts her head from the water, relieved, and brea
 Right at the start, the little girl Nour says (drinks, relieved, breathes out) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "آه... ساقعة وحلوة... أنا أحسن خالص."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -604,7 +604,7 @@ Right at the start, the little girl Nour says (determined) in Egyptian Arabic wi
 Then Lumaa, the little glowing star says (happy) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "برافو يا نور!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -616,7 +616,7 @@ Animate this exact image. Baskota on the far side of the jelly bridge cheers and
 Right at the start, Baskota, the gingerbread boy with the white chef hat says (cheerful) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "جاهزين؟ نطّة... نطّة... نطّة!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -628,7 +628,7 @@ Animate this exact image. Nour bounces high and light across the jelly bridge, a
 Right at the start, the little girl Nour says (laughs) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "بوينج! بوينج! أنا خفيفة زي الريشة!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -639,7 +639,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Slow camera tilt up the tall white sugar riddle gate with candy-cane pillars; the team stands small in front of it looking up; soft glow.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -650,7 +650,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. The team stands in front of the closed riddle gate; Baskota holds his head worried; Lumaa turns to the lantern.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -662,7 +662,7 @@ Animate this exact image. The lantern floats in front of the riddle gate, readin
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (playful, reading) in Egyptian Arabic with a warm, kind, wise male voice:
 "حاجة بيضا وحلوة... بتدوب في الشاي... ولو كتّرنا منها، سنانّا تزعل... أنا مين؟"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -674,7 +674,7 @@ Animate this exact image. Nour thinks with one finger on her chin, eyes looking 
 Right at the start, the little girl Nour says (thinking) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "بيضا... وحلوة... وبتدوب في الشاي..."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -686,7 +686,7 @@ Animate this exact image. The lantern looks straight at the camera, inviting the
 Right at the start, the golden lantern (its kind face glows inside the colored glass) says (to the children) in Egyptian Arabic with a warm, kind, wise male voice:
 "فكّروا معانا يا أصحابي... عرفتوا؟"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -698,7 +698,7 @@ Animate this exact image. Nour's face lights up with a happy idea and she jumps 
 Right at the start, the little girl Nour says (happy) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "السُّكّر! هو السُّكّر!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -709,7 +709,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. The riddle gate swings open with a burst of sparkles; Baskota jumps happily and cheers; Lumaa twirls.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -720,7 +720,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Nour cheers with both arms up, proud and laughing; Lumaa giggles and twirls around her.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -731,7 +731,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. At the top of the cake mountain, the small pink crystal shard on the giant cherry pulses with soft pink light; the team leans in, amazed.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -741,7 +741,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. The pink crystal shard glows brighter; the lantern floats closer to it, glowing warmly.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -753,7 +753,7 @@ Animate this exact image. Nour holds the glowing pink crystal shard gently, gasp
 Right at the start, the little girl Nour says (gasps) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "حطّيتها في العُقد... بُصّوا! العُقد نوّر!"
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -764,7 +764,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Close-up: the pink crystal shard settles into one star slot of Nour's silver necklace and lights up with a gentle pink glow and sparkles.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -776,7 +776,7 @@ Animate this exact image. Baskota holds up the shiny wrapped bonbon as a gift wi
 Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "يا نور، خُدي دي هدية منّي... أحلى بونبوناية في المدينة كلها."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -791,7 +791,7 @@ Right at the start, the little girl Nour says (thoughtful) in Egyptian Arabic wi
 Then the little girl Nour says (warmly) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "هاخدها لماما بكرة الصبح... ونقسمها سوا."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -801,7 +801,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Nour hugs the bonbon to her chest and smiles proudly.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -813,7 +813,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Nour, holding the lantern's ring, and Lumaa fly up and away from Candy City; Baskota waves goodbye from below; slow camera pull-back.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -825,7 +825,7 @@ Animate this exact image. Nour, sleepy, places the wrapped bonbon gently on the 
 Right at the start, the little girl Nour says (whispers) in Egyptian Arabic with a cute, sweet 6-year-old girl voice:
 "هحطّ البونبوناية هنا جنب المخدة... والصبح أوّل حاجة هعملها، هقسمها مع ماما."
 Only the character who is speaking moves the mouth; the others keep their mouths closed. Clear lip-sync. All talking ends before the 7th second.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -836,7 +836,7 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Nour lies down slowly, smiling sleepily, and looks toward the window.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```
 
 ---
@@ -846,5 +846,5 @@ Keep the characters, places and 3D animation style exactly as in the image. Slow
 ```
 Animate this exact image. Nour sleeps peacefully with a gentle smile; the lantern on the shelf dims slowly; one star outside the window twinkles brighter than the others.
 Nobody talks; all mouths stay closed.
-Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.
+Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```

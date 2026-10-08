@@ -8,7 +8,7 @@ WHO={'nour':('the little girl Nour','a cute, sweet 6-year-old girl voice'),
  'fanoos':('the golden lantern (its kind face glows inside the colored glass)','a warm, kind, wise male voice'),
  'lumaa':('Lumaa, the little glowing star','a tiny, high, cheerful little-girl voice'),
  'baskota':('Baskota, the gingerbread boy with the white chef hat','a playful, cheerful little-boy voice')}
-TAIL='Keep the characters, places and 3D animation style exactly as in the image. Slow, gentle camera. No subtitles, no text on screen, no background music.'
+TAIL='Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.'
 # (clip, image, lines, motion, mode)  mode: talk = lip-sync in Flow, vo = voice-over (mouths closed), ready = already done
 C=[
 ('C01','02-1',[4,5,6],'','ready'),
