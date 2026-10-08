@@ -3,7 +3,7 @@ import os, re, sys, subprocess, zipfile
 EP=os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, f'{EP}/voice'); import lines
 L=lines.L
-WHO={'nour':('the little girl Nour','a cute, sweet 6-year-old girl voice'),
+WHO={'nour':('the little girl Nour','a cute, sweet cartoon girl voice'),
  'mama':('her mother (kind young Egyptian mother, beige headscarf)','a warm, gentle young mother voice'),
  'fanoos':('the golden lantern (its kind face glows inside the colored glass)','a warm, kind, wise male voice'),
  'lumaa':('Lumaa, the little glowing star','a tiny, high, cheerful little-girl voice'),
@@ -20,12 +20,12 @@ C=[
 ('C07','03-1',[14],'Nour sits up in bed, eyes widening with wonder, and leans toward the glowing lantern. The lantern floats and turns gently with swirling sparkles.','talk'),
 ('C08','03-2',[15],'','ready'),
 ('C09','03-3',[16,17],'Lumaa taps the window glass twice with her little arm, glowing brighter and bouncing with excitement.','talk'),
-('C10','03-4',[18,19],'Nour leans out of the open window delighted; Lumaa glows and bounces beside her shoulder; Nour\'s silver necklace starts to shine.','talk'),
+('C10','03-4',[18,19],'Nour stands safely inside her cozy bedroom next to the window and smiles happily at Lumaa, who floats beside her shoulder, glowing and bouncing softly; Nour\'s silver necklace starts to shine.','talk'),
 ('C11','03-1',[20,21],'The lantern floats down next to Nour and offers its silver ring; Nour grabs the ring with both hands, excited.','talk'),
-('C12','04-1',[22],'Nour flies forward joyfully holding the lantern\'s ring, braids fluttering in the wind; Lumaa swoops beside her leaving sparkles; the city lights twinkle below; slow camera follow.','vo'),
+('C12','04-1',[22],'A dreamy magical storybook moment: Nour floats gently and calmly through the soft night sky, smiling, holding the glowing lantern\'s ring; Lumaa floats beside her leaving sparkles; the city lights twinkle far below. Slow, calm camera follow.','vo'),
 ('C13','04-2',[23],'Lumaa flies close to camera, closes her eyes and sniffs the sweet air happily; pink and golden sparkles drift by.','talk'),
-('C14','04-1',[24],'Nour laughs while flying and holds her tummy with one hand, the other holding the lantern\'s ring.','talk'),
-('C15','05-1',[25],'Slow camera push-in toward Candy City; Nour, Lumaa and the lantern glide gently down from the sky toward the street; lollipop lamps twinkle; cotton-candy trees sway.','vo'),
+('C14','04-1',[24],'Nour floats calmly in the dreamy night sky holding the lantern\'s ring, laughing and touching her tummy with her other hand.','talk'),
+('C15','05-1',[25],'Slow camera push-in toward Candy City; Nour, Lumaa and the lantern float down softly and slowly like feathers toward the candy street; lollipop lamps twinkle; cotton-candy trees sway.','vo'),
 ('C16','05-2',[26],'Nour looks around amazed, turning her head from the biscuit houses to the glowing sugar windows, pointing.','talk'),
 ('C17','05-3',[27],'Lumaa twirls happily above the chocolate river, pointing down at it; the river flows slowly; the lantern bobs nearby.','talk'),
 ('C18','05-3',[28],'The lantern floats closer to camera and turns toward the cotton-candy trees and the lollipop street lamps; the trees sway softly.','talk'),
@@ -40,7 +40,7 @@ C=[
 ('C27','06-3',[37],'Baskota jumps and points far away at the Cake Mountain; Nour, Lumaa and the lantern turn to look; the giant cherry on top glows softly with pink light.','talk'),
 ('C28','07-1',[38],'The fluffy cotton-candy cloud drifts slowly; Baskota waves everyone to come aboard, happily.','talk'),
 ('C29','07-1',[39],'Nour pats the cotton-candy cloud curiously, surprised.','talk'),
-('C30','07-1',[40,41],'Baskota laughs and wags his finger playfully at Nour. Then the cloud floats higher through the night sky; Lumaa and the lantern fly alongside.','talk'),
+('C30','07-1',[40,41],'Baskota laughs and wags his finger playfully at Nour. Then the fluffy cloud drifts slowly and calmly over the candy rooftops; Lumaa and the lantern float alongside.','talk'),
 ('C31','07-2',[42],'Colorful candy butterflies (one red, two green, three yellow) flutter gently around the cotton-candy cloud, wings shimmering, leaving tiny sparkles.','vo'),
 ('C32','07-1',[43],'Nour points at butterflies one by one as she counts, laughing; candy butterflies flutter around the cloud.','talk'),
 ('C33','07-3',[44],'The lantern floats beside the cloud, looking straight at the camera as if talking to the children watching.','talk'),
@@ -53,7 +53,7 @@ C=[
 ('C40','08-2',[51],'Nour stops chewing, cheeks still full, and looks up a little guiltily.','vo'),
 ('C41','09-1',[52,53],'Baskota bounces on the wobbly rainbow jelly bridge, which jiggles with each step, waving everyone to follow.','talk'),
 ('C42','09-1',[54],'Lumaa bounces across the jelly bridge, twirling happily; the bridge jiggles.','talk'),
-('C43','09-2',[55,56],'Nour holds her tummy with both hands, bends a little in pain, eyes watery.','talk'),
+('C43','09-2',[55,56],'Nour holds her tummy with both hands and makes a tired, sad little face, like she ate too much candy.','talk'),
 ('C44','10-1',[57],'Baskota, sitting on the big cookie stone, tells a story with one hand raised; Nour sits beside him listening quietly with her mouth closed.','talk'),
 ('C45','10-2',[58],'The chubby sugar king snores on his big cushion, his tummy rising and falling; candy wrappers flutter softly; dreamy storybook haze.','vo'),
 ('C46','10-1',[59],'Nour gives a small weak laugh; Baskota smiles and listens.','talk'),
@@ -62,8 +62,8 @@ C=[
 ('C49','11-1',[62,63],'Baskota points happily at the mint spring. Then Nour kneels and drinks clear sparkling water from her cupped hands; bubbles rise; mint leaves sway.','talk'),
 ('C50','11-1',[64],'Nour lifts her head from the water, relieved, and breathes out with a smile.','talk'),
 ('C51','11-2',[65,66],'Nour stands straight with a calm, determined small smile; mint leaves sway around her.','talk'),
-('C52','12-1',[67],'Baskota on the far side of the jelly bridge cheers and claps, calling Nour to jump.','talk'),
-('C53','12-1',[68],'Nour bounces high and light across the jelly bridge, arms out like wings, laughing; the bridge jiggles.','talk'),
+('C52','12-1',[67],'Baskota on the far side of the jelly bridge cheers and claps, calling Nour to hop across.','talk'),
+('C53','12-1',[68],'Nour hops happily across the soft, wobbly jelly bridge, arms out, laughing; the bridge jiggles like jelly.','talk'),
 ('C54','13-1',[69,70],'Slow camera tilt up the tall white sugar riddle gate with candy-cane pillars; the team stands small in front of it looking up; soft glow.','vo'),
 ('C55','13-1',[71,72],'The team stands in front of the closed riddle gate; Baskota holds his head worried; Lumaa turns to the lantern.','vo'),
 ('C56','13-2',[73],'The lantern floats in front of the riddle gate, reading playfully, looking at the camera.','talk'),
@@ -79,7 +79,7 @@ C=[
 ('C66','15-1',[87],'Baskota holds up the shiny wrapped bonbon as a gift with a proud smile.','talk'),
 ('C67','15-2',[88,89],'Nour holds the wrapped bonbon gently with a thoughtful, warm smile.','talk'),
 ('C68','15-2',[90],'Nour hugs the bonbon to her chest and smiles proudly.','vo'),
-('C69','16-1',[91,92,93],'Nour, holding the lantern\'s ring, and Lumaa fly up and away from Candy City; Baskota waves goodbye from below; slow camera pull-back.','vo'),
+('C69','16-1',[91,92,93],'Nour, holding the lantern\'s ring, and Lumaa float up softly and calmly into the starry sky above Candy City; Baskota waves goodbye from below; slow camera pull-back.','vo'),
 ('C70','17-1',[94],'Nour, sleepy, places the wrapped bonbon gently on the pillow beside her and smiles; the cat stays asleep; the necklace glows softly pink.','talk'),
 ('C71','17-1',[95,96],'Nour lies down slowly, smiling sleepily, and looks toward the window.','vo'),
 ('C72','17-2',[97],'Nour sleeps peacefully with a gentle smile; the lantern on the shelf dims slowly; one star outside the window twinkles brighter than the others.','vo'),
@@ -104,7 +104,7 @@ for cid,img,ls,motion,mode in C:
         sp,tx=L[i][1],L[i][2]
         out.append(f"- `{i:03d}` **{sp}**: {clean(tx) if sp!='SFX' else '(مؤثر: '+tx+')'}\n")
     if mode=='ready': continue
-    p=f'Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. {motion}\n'
+    p=f'A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. {motion}\n'
     if mode=='talk':
         first=True
         for i in ls:
