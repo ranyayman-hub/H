@@ -133,7 +133,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 ## C12: صورة 04-1 (🎙️ صوت من برّه، 1.0 ث)
 - `022` **SFX**: (مؤثر: soft whoosh of wind, magical flying sparkle sound)
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. A dreamy magical storybook moment: Nour floats gently and calmly through the soft night sky, smiling, holding the glowing lantern's ring; Lumaa floats beside her leaving sparkles; the city lights twinkle far below. Slow, calm camera follow.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. A dreamy magical storybook moment: Nour floats gently and calmly through the soft night sky, smiling, holding the glowing lantern's ring; Lumaa floats beside her leaving sparkles; the city lights twinkle far below.
 Nobody talks; all mouths stay closed.
 The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. No subtitles, no text on screen, no background music.
 ```

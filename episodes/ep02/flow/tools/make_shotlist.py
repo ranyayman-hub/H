@@ -22,7 +22,7 @@ C=[
 ('C09','03-3',[16,17],'Lumaa taps the window glass twice with her little arm, glowing brighter and bouncing with excitement.','talk'),
 ('C10','03-4',[18,19],'Nour stands safely inside her cozy bedroom next to the window and smiles happily at Lumaa, who floats beside her shoulder, glowing and bouncing softly; Nour\'s silver necklace starts to shine.','talk'),
 ('C11','03-1',[20,21],'The lantern floats gently a little closer to Nour; Nour smiles excitedly and reaches up to hold the lantern\'s silver ring with one hand.','talk'),
-('C12','04-1',[22],'A dreamy magical storybook moment: Nour floats gently and calmly through the soft night sky, smiling, holding the glowing lantern\'s ring; Lumaa floats beside her leaving sparkles; the city lights twinkle far below. Slow, calm camera follow.','vo'),
+('C12','04-1',[22],'A dreamy magical storybook moment: Nour floats gently and calmly through the soft night sky, smiling, holding the glowing lantern\'s ring; Lumaa floats beside her leaving sparkles; the city lights twinkle far below.','vo'),
 ('C13','04-2',[23],'Lumaa flies close to camera, closes her eyes and sniffs the sweet air happily; pink and golden sparkles drift by.','talk'),
 ('C14','04-1',[24],'Nour floats calmly in the dreamy night sky holding the lantern\'s ring, laughing and touching her tummy with her other hand.','talk'),
 ('C15','05-1',[25],'Slow camera push-in toward Candy City; Nour, Lumaa and the lantern float down softly and slowly like feathers toward the candy street; lollipop lamps twinkle; cotton-candy trees sway.','vo'),
