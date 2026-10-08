@@ -104,7 +104,7 @@ for cid,img,ls,motion,mode in C:
         sp,tx=L[i][1],L[i][2]
         out.append(f"- `{i:03d}` **{sp}**: {clean(tx) if sp!='SFX' else '(مؤثر: '+tx+')'}\n")
     if mode=='ready': continue
-    p=f'Animate this exact image. {motion}\n'
+    p=f'Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. {motion}\n'
     if mode=='talk':
         first=True
         for i in ls:
