@@ -273,7 +273,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ## C24: صورة 06-1 (🗣️ كلام، 5.5 ث)
 - `034` **baskota**: اسمي بسكوتة! أنا الدليل بتاع المدينة. ومين النجمة الحلوة دي؟
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota puts a hand on his chest proudly, then points up curiously at the little star.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota puts a hand on his chest proudly, then points up curiously, looking up.
 Right at the start, Baskota, our own original cute round cookie character with a tiny white chef hat and colorful candy buttons says (laughs) in Egyptian Arabic with a playful, cheerful little-boy voice:
 "اسمي بسكوتة! أنا الدليل بتاع المدينة. ومين النجمة الحلوة دي؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
