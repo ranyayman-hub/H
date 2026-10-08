@@ -55,5 +55,5 @@ for n,(k,src,d) in enumerate(segs):
         cmd=['ffmpeg','-v','error','-y','-i',src,'-an','-t',f'{d:.3f}','-vf',vf]
     subprocess.run(cmd+['-c:v','libx264','-preset','veryfast','-crf','23',o],check=True); vparts.append(o)
 open(f'{OUT}/v.txt','w').write(''.join(f"file '{p}'\n" for p in vparts))
-subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',f'{OUT}/v.txt','-i',f'{OUT}/voice.wav','-c:v','copy','-c:a','aac','-b:a','160k','-shortest','-movflags','+faststart',f'{EP}/edit/EP02-roughcut-v1.mp4'],check=True)
+subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',f'{OUT}/v.txt','-i',f'{OUT}/voice.wav','-c:v','copy','-c:a','aac','-b:a','160k','-shortest','-movflags','+faststart',f'{EP}/edit/EP02-roughcut-v2.mp4'],check=True)
 print('segments',len(segs),'lipsync',sum(1 for s in segs if s[0]=='ls'),'seconds',round(sum(s[2] for s in segs),1))
