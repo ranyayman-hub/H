@@ -167,7 +167,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 ## C15: صورة 05-1 (🎙️ صوت من برّه، 1.0 ث)
 - `025` **SFX**: (مؤثر: cheerful tiny bells and a soft sparkling magical ambience)
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Slow camera push-in toward Candy City; Nour, Lumaa and the lantern float down softly and slowly like feathers toward the candy street; lollipop lamps twinkle; cotton-candy trees sway.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Slow camera push-in toward Candy City; Nour, Lumaa and the lantern float down softly and slowly toward the candy street; lollipop lamps twinkle; cotton-candy trees sway.
 Nobody talks; all mouths stay closed.
 The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, room, furniture and objects in the same places, and the same 3D animation style. No new characters or objects. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
@@ -475,7 +475,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 - `052` **SFX**: (مؤثر: wobbly jelly bouncing sounds, boing boing)
 - `053` **baskota**: لازم نعدّي جسر الجيلي ده عشان نوصل للجبل. بننُطّ نطّة نطّة!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota hops onto the wobbly rainbow jelly bridge, which jiggles like jelly, and waves everyone to follow.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Baskota hops onto the wobbly rainbow jelly bridge, which jiggles softly, and waves everyone to follow.
 Right at the start, Baskota, the gingerbread boy with the white chef hat says in Egyptian Arabic with a playful, cheerful little-boy voice:
 "لازم نعدّي جسر الجيلي ده عشان نوصل للجبل. بننُطّ نطّة نطّة!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
@@ -500,7 +500,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `055` **nour**: آه... استنّوا... بطني بتوجعني أوي...
 - `056` **nour**: مش قادرة أنُطّ... حاسّة إني تقيلة.
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour holds her tummy with both hands and makes a tired, sad little face, like she ate too much candy.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour holds her tummy with both hands and makes a tired, sad little face because her tummy is too full.
 Right at the start, the little girl Nour says (tired) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "آه... استنّوا... بطني بتوجعني أوي..."
 Then the little girl Nour says (sad) in Egyptian Arabic with a cute, sweet cartoon girl voice:
@@ -624,7 +624,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ## C53: صورة 12-1 (🗣️ كلام، 4.7 ث)
 - `068` **nour**: بوينج! بوينج! أنا خفيفة زي الريشة!
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour hops happily across the soft, wobbly jelly bridge, arms out, laughing; the bridge jiggles like jelly.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. Nour hops happily across the soft, wobbly jelly bridge, arms out, laughing; the bridge jiggles softly.
 Right at the start, the little girl Nour says (laughs) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "بوينج! بوينج! أنا خفيفة زي الريشة!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
