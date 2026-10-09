@@ -20,22 +20,24 @@ ORDER=['@intro',f'{EP}/flow/02-1-veo-ourvoices.mp4','C02','L02-3','C04','C05','C
  'C44','C45','C47','C49','C51','C52','C54','C56','C57','C60','C62','C64','C65','C66','C67','C69','C70','C71','@outro']
 OUT=f'{EP}/edit/build/asm'; os.makedirs(OUT,exist_ok=True)
 GAP=0.35
+TRIM={'C02':4.0,'C04':6.6,'C05':6.8,'C07':4.0,'C09':3.6,'C12':3.6,'C14':3.7,'C10':7.5,'C51':8.0}
 parts=[]
 for n,o in enumerate(ORDER):
     dst=f'{OUT}/p{n:03d}.mp4'
     if o=='@intro': src,ss,tt=RC,0,starts[4]
     elif o=='@outro': src,ss,tt=RC,starts[98],end-starts[98]+0.5
     else:
-        src=o if o.startswith('/') else f'{F}/{o}.mp4'; ss=0; tt=dur(src)
+        src=o if o.startswith('/') else f'{F}/{o}.mp4'; ss=0; tt=min(dur(src),TRIM.get(o,99))
     has_a=bool(subprocess.check_output(['ffprobe','-v','error','-select_streams','a','-show_entries','stream=index','-of','csv=p=0',src]).strip())
     cmd=['ffmpeg','-v','error','-y','-ss',str(ss),'-t',f'{tt:.3f}','-i',src]
     if not has_a: cmd+=['-f','lavfi','-t',f'{tt:.3f}','-i','anullsrc=r=44100:cl=stereo']
     gap=0 if o.startswith('@') else GAP
     vf=f'scale=1280:720,fps=25,format=yuv420p,tpad=stop_mode=clone:stop_duration={gap}'
-    af=f'aresample=44100,aformat=channel_layouts=stereo,apad=pad_dur={gap}'
+    norm='loudnorm=I=-18:TP=-1.5:LRA=11,aresample=44100,' if has_a else ''
+    af=f'aresample=44100,aformat=channel_layouts=stereo,{norm}apad=pad_dur={gap}'
     cmd+=['-map','0:v','-map','0:a' if has_a else '1:a','-vf',vf,'-af',af,'-t',f'{tt+gap:.3f}','-c:v','libx264','-crf','20','-preset','veryfast','-c:a','aac','-b:a','160k',dst]
     subprocess.run(cmd,check=True); parts.append(dst)
 open(f'{OUT}/list.txt','w').write(''.join(f"file '{p}'\n" for p in parts))
-out=f'{EP}/edit/EP02-flow-v2.mp4'
+out=f'{EP}/edit/EP02-flow-v3.mp4'
 subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',f'{OUT}/list.txt','-c','copy','-movflags','+faststart',out],check=True)
 print('clips',len(parts),'seconds',round(dur(out),1))
