@@ -14,9 +14,9 @@ for i,(s,sp,tx) in enumerate(L):
 end=t
 RC=f'{EP}/edit/EP02-roughcut-v3.mp4'
 F=f'{EP}/flow/final'
-ORDER=['@intro',f'{EP}/flow/02-1-veo-ourvoices.mp4','C02',f'{EP}/lipsync/02-3-mama.mp4','C04','C05','C06','C07',
- f'{EP}/lipsync/03-2-lantern.mp4','C09','C10','C11','C12','C13','C14','C15','C16','C17','C18','C19','C20','C21',
- 'C22','C23','C24','C25','C27','C28','C30','C31','C32','C33','C34','C35','C36','C37','C38','C39','C41','C43',
+ORDER=['@intro',f'{EP}/flow/02-1-veo-ourvoices.mp4','C02','L02-3','C04','C05','C06','C07',
+ 'L03-2','C09','C10','C11','C12','C13','C14','C15','C16','C17','C18','C19','C20','C21',
+ 'C22','C23','C24','C25','C27','C28','C30','C31','C32','C33','C34','C35','C36','C37','C38','C39','C40','C41','C43',
  'C44','C45','C47','C49','C51','C52','C54','C56','C57','C60','C62','C64','C65','C66','C67','C69','C70','C71','@outro']
 OUT=f'{EP}/edit/build/asm'; os.makedirs(OUT,exist_ok=True)
 GAP=0.35
@@ -36,6 +36,6 @@ for n,o in enumerate(ORDER):
     cmd+=['-map','0:v','-map','0:a' if has_a else '1:a','-vf',vf,'-af',af,'-t',f'{tt+gap:.3f}','-c:v','libx264','-crf','20','-preset','veryfast','-c:a','aac','-b:a','160k',dst]
     subprocess.run(cmd,check=True); parts.append(dst)
 open(f'{OUT}/list.txt','w').write(''.join(f"file '{p}'\n" for p in parts))
-out=f'{EP}/edit/EP02-flow-v1.mp4'
+out=f'{EP}/edit/EP02-flow-v2.mp4'
 subprocess.run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i',f'{OUT}/list.txt','-c','copy','-movflags','+faststart',out],check=True)
 print('clips',len(parts),'seconds',round(dur(out),1))
