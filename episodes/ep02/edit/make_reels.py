@@ -7,8 +7,13 @@ REELS = {
               (136.83,141.19,437),(141.19,146.15,620),(146.15,149.21,437)],
     'tummy': [(219.53,224.5,437),(224.5,229.06,437),(229.06,232.34,800),(232.34,237.99,437),
               (237.99,241.19,800),(250.19,258.55,400)],
+    # riddle: the lantern reads it, Nour thinks, the lantern asks the kids; cut before Nour answers
+    'riddle': [(329.56,337.64,648),(337.64,345.54,455)],
 }
+HOLD = {'riddle': 1.2}   # seconds to freeze the last frame at the end
+only = sys.argv[2:]
 for name, segs in REELS.items():
+    if only and name not in only: continue
     cmd = ['ffmpeg','-v','error','-y']
     fc = []
     for k,(a,b,x) in enumerate(segs):
@@ -17,7 +22,9 @@ for name, segs in REELS.items():
     n = len(segs)
     cmd += ['-loop','1','-i',f'{OV}/ov-{name}.png']
     fc.append(''.join(f'[v{k}][a{k}]' for k in range(n)) + f'concat=n={n}:v=1:a=1[cv][ca]')
-    fc.append(f'[cv][{n}:v]overlay=0:0:shortest=1,format=yuv420p[v];[ca]afade=t=out:st={sum(b-a for a,b,_ in segs)-0.6:.2f}:d=0.6[a]')
+    hold=HOLD.get(name,0)
+    fc.append(f'[cv]tpad=stop_mode=clone:stop_duration={hold}[cvh];[ca]apad=pad_dur={hold}[cah]')
+    fc.append(f'[cvh][{n}:v]overlay=0:0:shortest=1,format=yuv420p[v];[cah]afade=t=out:st={sum(b-a for a,b,_ in segs)+hold-0.6:.2f}:d=0.6[a]')
     cmd += ['-filter_complex',';'.join(fc),'-map','[v]','-map','[a]','-c:v','libx264','-crf','20','-preset','medium',
             '-c:a','aac','-b:a','160k','-movflags','+faststart',f'../shorts/EP02-reel-{name}.mp4']
     subprocess.run(cmd, check=True)
