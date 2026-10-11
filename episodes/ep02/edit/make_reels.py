@@ -10,8 +10,10 @@ REELS = {
     # riddle: the lantern reads it, Nour thinks, the lantern asks the kids; cut before Nour answers
     'riddle': [(329.56,337.64,648),(337.64,345.54,455)],
     'jelly': [(308.44,317.6,298)],
+    # butterflies: Nour counts, the lantern asks the kids; crop_x None = full frame over a blurred fill
+    'butterflies': [(200.8,207.16,None),(207.16,211.32,None)],
 }
-HOLD = {'riddle': 1.2, 'jelly': 0.8}   # seconds to freeze the last frame at the end
+HOLD = {'riddle': 1.2, 'jelly': 0.8, 'butterflies': 1.2}   # seconds to freeze the last frame at the end
 only = sys.argv[2:]
 for name, segs in REELS.items():
     if only and name not in only: continue
@@ -19,7 +21,11 @@ for name, segs in REELS.items():
     fc = []
     for k,(a,b,x) in enumerate(segs):
         cmd += ['-ss',f'{a}','-t',f'{b-a:.2f}','-i','EP02-flow-v6.mp4']
-        fc.append(f'[{k}:v]crop=405:720:{x}:0,scale=1080:1920:flags=lanczos,setsar=1,fps=30[v{k}];[{k}:a]aresample=44100[a{k}]')
+        if x is None:
+            fc.append(f'[{k}:v]split[f{k}][b{k}];[b{k}]scale=-2:1920,crop=1080:1920,boxblur=30:3,eq=brightness=-0.12[bb{k}];'
+                      f'[f{k}]scale=1080:-2:flags=lanczos[ff{k}];[bb{k}][ff{k}]overlay=0:(H-h)/2-90,setsar=1,fps=30[v{k}];[{k}:a]aresample=44100[a{k}]')
+        else:
+            fc.append(f'[{k}:v]crop=405:720:{x}:0,scale=1080:1920:flags=lanczos,setsar=1,fps=30[v{k}];[{k}:a]aresample=44100[a{k}]')
     n = len(segs)
     cmd += ['-loop','1','-i',f'{OV}/ov-{name}.png']
     fc.append(''.join(f'[v{k}][a{k}]' for k in range(n)) + f'concat=n={n}:v=1:a=1[cv][ca]')
