@@ -9,8 +9,9 @@ REELS = {
               (237.99,241.19,800),(250.19,258.55,400)],
     # riddle: the lantern reads it, Nour thinks, the lantern asks the kids; cut before Nour answers
     'riddle': [(329.56,337.64,648),(337.64,345.54,455)],
+    'jelly': [(308.44,317.6,298)],
 }
-HOLD = {'riddle': 1.2}   # seconds to freeze the last frame at the end
+HOLD = {'riddle': 1.2, 'jelly': 0.8}   # seconds to freeze the last frame at the end
 only = sys.argv[2:]
 for name, segs in REELS.items():
     if only and name not in only: continue
