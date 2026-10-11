@@ -21,8 +21,8 @@ L = [
     # 2 — logo (no dialogue)
 
     # 3 — the lantern in the sky, short recap
-    (3, 'fanoos', '[warmly] أهلًا يا أصحابي! فاكرين؟ نور جابت حتّتين من بلّورة الأحلام...'),
-    (3, 'fanoos', '[mysteriously] والليلة... هنروح نجيب الحِتّة التالتة. بس الأول... تعالوا نشوف نور بتعمل إيه.'),
+    (3, 'fanoos', '[warmly] أهلًا يا أصحابي! فاكرين؟ نور جابت أوّل حِتّة من بلّورة الأحلام...'),
+    (3, 'fanoos', '[mysteriously] والليلة... هنروح نجيب الحِتّة التانية. بس الأول... تعالوا نشوف نور بتعمل إيه.'),
 
     # 4 — bedtime with Mama
     (4, 'mama', '[softly] يلا يا نور، غسلتي سنانك؟ ولبستي البيجامة؟'),
@@ -47,7 +47,7 @@ L = [
     (5, 'SFX', 'tiny tapping on a window glass, tink tink'),
     (5, 'lumaa', '[excited] نور! نور! افتحي الشباك!'),
     (5, 'nour', '[happy] لُمعة! وحشتيني!'),
-    (5, 'lumaa', '[excited] لقيت الحِتّة التالتة! بتلمع بنفسجي... في جبال الكريستال!'),
+    (5, 'lumaa', '[excited] لقيت الحِتّة التانية! بتلمع بنفسجي... في جبال الكريستال!'),
     (5, 'fanoos', '[calmly] يبقى يلا بينا. امسكي إيدي يا نور... وما تخافيش.'),
 
     # 6 — flying over the crystal mountains, echo game
@@ -149,7 +149,7 @@ L = [
     (14, 'lumaa', '[happy] الحِتّة البنفسجي!'),
     (14, 'fanoos', '[warmly] يلا يا نور... حطّيها في العقد.'),
     (14, 'SFX', 'a soft magical click and a sparkling chime'),
-    (14, 'nour', '[happy] تلات حتت! فاضل خمسة بس!'),
+    (14, 'nour', '[happy] حِتّتين! فاضل ستة بس!'),
     (14, 'fanoos', '[to the children] والأطفال في كل حتّة في الدنيا... هيحلموا أحلام أحلى الليلة.'),
 
     # 15 — goodbye, the lesson, a gift
