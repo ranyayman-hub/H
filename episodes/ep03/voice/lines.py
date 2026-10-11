@@ -2,14 +2,14 @@
 Text in [brackets] is an eleven_v3 audio direction, not spoken.
 Diacritics are added only where Egyptian pronunciation would otherwise drift.
 SFX entries use speaker 'SFX' and an English description.
-'sharara' has no voice yet: design one (small, sweet, shy young dragon) before generating."""
+"""
 
 VOICES = {
     'nour':    '09Q2MhEvwEP3ijEBee1i',  # Nour - Hawadeet World (designed)
     'fanoos':  'x6fvBLXv9YxzoVJQ0wp6',  # Momen - warm, mature, calm
     'lumaa':   'jDniWbMLsNWghA1TR3e3',  # Lumaa - Hawadeet World (designed)
     'mama':    'JHdGl5PsEzushIzzVSd1',  # Heba - soothing, Egyptian
-    'sharara': None,                    # TODO: design
+    'sharara': 'y0YlapthDyGFWLD1Lhx5',  # Sharara - Hawadeet World (designed, pick 1)
 }
 
 L = [
