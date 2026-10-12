@@ -14,30 +14,30 @@ Shot 03-1 (TALKING, Lantern): the lantern floating alone in a starry night sky a
 
 ### رسالة 2
 ```
-Shot 04-1: Nour's bedroom from the reference at night, wide shot: Nour sits in bed under the cream blanket, Mama sits on the edge of the bed, the bedside lamp is on, Mishmish curled at the foot of the bed, the lantern unlit on the shelf. [005]
-Shot 04-2 (TALKING, Nour): medium close-up, Nour sitting in bed facing the camera, proud big smile, a few neatly stacked toys on a shelf behind her. [006]
-Shot 04-3 (TALKING, Mama): medium close-up, Mama facing the camera with a warm smile, her hand resting near the bedside lamp switch. [007]
+Shot 04-1: (no necklace) Nour's bedroom from the reference at night, wide shot: Nour sits in bed under the cream blanket, Mama sits on the edge of the bed, the bedside lamp is on, Mishmish curled at the foot of the bed, the lantern unlit on the shelf. [005]
+Shot 04-2 (TALKING, Nour): (no necklace) medium close-up, Nour sitting in bed facing the camera, proud big smile, a few neatly stacked toys on a shelf behind her. [006]
+Shot 04-3 (TALKING, Mama): (no necklace) medium close-up, Mama facing the camera with a warm smile, her hand resting near the bedside lamp switch. [007]
 ```
 
 ### رسالة 3
 ```
-Shot 04-4 (TALKING, Nour): close-up, Nour facing the camera, a little scared, holding the edge of her blanket up to her chin with both hands (face fully visible). [008]
-Shot 04-5 (TALKING, Mama): close-up, Mama facing the camera, gentle caring face, head slightly tilted. [009]
-Shot 04-6 (TALKING, Nour): Nour facing the camera with shy eyes glancing sideways; behind her, a dark corner of the room where a coat stand casts a soft funny shadow. [010]
+Shot 04-4 (TALKING, Nour): (no necklace) close-up, Nour facing the camera, a little scared, holding the edge of her blanket up to her chin with both hands (face fully visible). [008]
+Shot 04-5 (TALKING, Mama): (no necklace) close-up, Mama facing the camera, gentle caring face, head slightly tilted. [009]
+Shot 04-6 (TALKING, Nour): (no necklace) Nour facing the camera with shy eyes glancing sideways; behind her, a dark corner of the room where a coat stand casts a soft funny shadow. [010]
 ```
 
 ### رسالة 4
 ```
-Shot 04-7 (TALKING, Mama): Mama hugging Nour on the bed with one arm and pointing gently around the room with the other: the bed, the wooden wardrobe, a small teddy bear; Mama faces the camera, cozy lamp light. [011]
-Shot 04-8 (TALKING, Mama): Mama facing the camera, switching on a small star-shaped night light on the bedside table that glows soft yellow. [012]
-Shot 04-9 (TALKING, Nour): Nour facing the camera, curious, lying on her pillow, the small star night light glowing beside her. [013]
+Shot 04-7 (TALKING, Mama): (no necklace) Mama hugging Nour on the bed with one arm and pointing gently around the room with the other: the bed, the wooden wardrobe, a small teddy bear; Mama faces the camera, cozy lamp light. [011]
+Shot 04-8 (TALKING, Mama): (no necklace) Mama facing the camera, switching on a small star-shaped night light on the bedside table that glows soft yellow. [012]
+Shot 04-9 (TALKING, Nour): (no necklace) Nour facing the camera, curious, lying on her pillow, the small star night light glowing beside her. [013]
 ```
 
 ### رسالة 5
 ```
-Shot 04-10 (TALKING, Mama): Mama facing the camera, smiling with a dreamy remembering look, pulling the cream blanket up over Nour like a big cozy cover. [014]
-Shot 04-11 (TALKING, Nour): Nour facing the camera, giggling, the blanket pulled up to her chin, eyes squeezed happily. [015-016]
-Shot 04-12: Mama at the half-open bedroom door looking back lovingly; the room is dark except the small star night light; Nour snuggled in bed. [017-018]
+Shot 04-10 (TALKING, Mama): (no necklace) Mama facing the camera, smiling with a dreamy remembering look, pulling the cream blanket up over Nour like a big cozy cover. [014]
+Shot 04-11 (TALKING, Nour): (no necklace) Nour facing the camera, giggling, the blanket pulled up to her chin, eyes squeezed happily. [015-016]
+Shot 04-12: (no necklace) Mama at the half-open bedroom door looking back lovingly; the room is dark except the small star night light; Nour snuggled in bed. [017-018]
 ```
 
 ### رسالة 6
@@ -233,7 +233,7 @@ Shot 16-2 (TALKING, Nour): Nour in bed facing the camera, soft brave smile, the 
 ```
 Shot 16-3: Nour reaches out and switches off the star night light; the room is dark except for the soft glow of the tiny crystal and the necklace. [124-125]
 Shot 16-4 (TALKING, Lantern): the lantern on the shelf in the dark room, facing the camera, softly glowing, proud gentle smile. [126]
-Shot 16-5: Nour asleep smiling, the tiny crystal glowing beside her pillow, the necklace with pink and purple lights; Lumaa twinkles outside the window. [127-130]
+Shot 16-5: Nour asleep smiling without the necklace, the tiny crystal glowing beside her pillow; Lumaa twinkles outside the window. [127-130]
 ```
 
 ### رسالة 34
