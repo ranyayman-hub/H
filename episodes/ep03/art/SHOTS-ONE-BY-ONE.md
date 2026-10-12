@@ -54,12 +54,12 @@ Shot 04-7 (TALKING, Mama): (no necklace) Mama hugging Nour on the bed with one a
 
 ### 04-8
 ```
-Shot 04-8 (TALKING, Mama): (no necklace) Mama facing the camera, switching on a small star-shaped night light on the bedside table that glows soft yellow. One single wide 16:9 image.
+Shot 04-8 (TALKING, Mama): (no necklace) Mama facing the camera, her hand on the bedside lamp, turning it down to a soft dim glow. One single wide 16:9 image.
 ```
 
 ### 04-9
 ```
-Shot 04-9 (TALKING, Nour): (no necklace) Nour facing the camera, curious, lying on her pillow, the small star night light glowing beside her. One single wide 16:9 image.
+Shot 04-9 (TALKING, Nour): (no necklace) Nour facing the camera, curious, lying on her pillow, the bedside lamp glowing softly and dimly beside her. One single wide 16:9 image.
 ```
 
 ### 04-10
@@ -74,7 +74,7 @@ Shot 04-11 (TALKING, Nour): (no necklace) Nour facing the camera, giggling, the 
 
 ### 04-12
 ```
-Shot 04-12: (no necklace) Mama at the half-open bedroom door looking back lovingly; the room is dark except the small star night light; Nour snuggled in bed. One single wide 16:9 image.
+Shot 04-12: (no necklace) Mama at the half-open bedroom door looking back lovingly; the room is dark except the dim bedside lamp; Nour snuggled in bed. One single wide 16:9 image.
 ```
 
 ### 05-1
@@ -474,7 +474,7 @@ Shot 15-6: outside the cave entrance, Sharara waving goodbye happily as Nour, Lu
 
 ### 16-1
 ```
-Shot 16-1: Nour back in her bed at night, placing the tiny glowing crystal next to her pillow; the star night light still on; Mishmish asleep at her feet. One single wide 16:9 image.
+Shot 16-1: Nour back in her bed at night, placing the tiny glowing crystal next to her pillow; the dim bedside lamp still on; Mishmish asleep at her feet. One single wide 16:9 image.
 ```
 
 ### 16-2
@@ -484,7 +484,7 @@ Shot 16-2 (TALKING, Nour): Nour in bed facing the camera, soft brave smile, the 
 
 ### 16-3
 ```
-Shot 16-3: Nour reaches out and switches off the star night light; the room is dark except for the soft glow of the tiny crystal; Nour is not wearing the necklace. One single wide 16:9 image.
+Shot 16-3: Nour reaches out and switches off the dim bedside lamp; the room is dark except for the soft glow of the tiny crystal; Nour is not wearing the necklace. One single wide 16:9 image.
 ```
 
 ### 16-4

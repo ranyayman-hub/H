@@ -29,15 +29,15 @@ Shot 04-6 (TALKING, Nour): (no necklace) Nour facing the camera with shy eyes gl
 ### رسالة 4
 ```
 Shot 04-7 (TALKING, Mama): (no necklace) Mama hugging Nour on the bed with one arm and pointing gently around the room with the other: the bed, the wooden wardrobe, a small teddy bear; Mama faces the camera, cozy lamp light. [011]
-Shot 04-8 (TALKING, Mama): (no necklace) Mama facing the camera, switching on a small star-shaped night light on the bedside table that glows soft yellow. [012]
-Shot 04-9 (TALKING, Nour): (no necklace) Nour facing the camera, curious, lying on her pillow, the small star night light glowing beside her. [013]
+Shot 04-8 (TALKING, Mama): (no necklace) Mama facing the camera, her hand on the bedside lamp, turning it down to a soft dim glow. [012]
+Shot 04-9 (TALKING, Nour): (no necklace) Nour facing the camera, curious, lying on her pillow, the bedside lamp glowing softly and dimly beside her. [013]
 ```
 
 ### رسالة 5
 ```
 Shot 04-10 (TALKING, Mama): (no necklace) Mama facing the camera, smiling with a dreamy remembering look, pulling the cream blanket up over Nour like a big cozy cover. [014]
 Shot 04-11 (TALKING, Nour): (no necklace) Nour facing the camera, giggling, the blanket pulled up to her chin, eyes squeezed happily. [015-016]
-Shot 04-12: (no necklace) Mama at the half-open bedroom door looking back lovingly; the room is dark except the small star night light; Nour snuggled in bed. [017-018]
+Shot 04-12: (no necklace) Mama at the half-open bedroom door looking back lovingly; the room is dark except the dim bedside lamp; Nour snuggled in bed. [017-018]
 ```
 
 ### رسالة 6
@@ -225,13 +225,13 @@ Shot 15-5 (TALKING, Lumaa): Lumaa facing the camera, yawning cutely, tiny star s
 ### رسالة 32
 ```
 Shot 15-6: outside the cave entrance, Sharara waving goodbye happily as Nour, Lumaa and the lantern fly away into the starry sky over the Crystal Mountains. [117, 120-121]
-Shot 16-1: Nour back in her bed at night, placing the tiny glowing crystal next to her pillow; the star night light still on; Mishmish asleep at her feet. [122]
+Shot 16-1: Nour back in her bed at night, placing the tiny glowing crystal next to her pillow; the dim bedside lamp still on; Mishmish asleep at her feet. [122]
 Shot 16-2 (TALKING, Nour): Nour in bed facing the camera, soft brave smile, the glowing crystal beside her. [123]
 ```
 
 ### رسالة 33
 ```
-Shot 16-3: Nour reaches out and switches off the star night light; the room is dark except for the soft glow of the tiny crystal; Nour is not wearing the necklace. [124-125]
+Shot 16-3: Nour reaches out and switches off the dim bedside lamp; the room is dark except for the soft glow of the tiny crystal; Nour is not wearing the necklace. [124-125]
 Shot 16-4 (TALKING, Lantern): the lantern on the shelf in the dark room, facing the camera, softly glowing, proud gentle smile. [126]
 Shot 16-5: Nour asleep smiling without the necklace, the tiny crystal glowing beside her pillow; Lumaa twinkles outside the window. [127-130]
 ```
