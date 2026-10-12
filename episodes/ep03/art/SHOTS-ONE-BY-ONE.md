@@ -484,7 +484,7 @@ Shot 16-2 (TALKING, Nour): Nour in bed facing the camera, soft brave smile, the 
 
 ### 16-3
 ```
-Shot 16-3: Nour reaches out and switches off the star night light; the room is dark except for the soft glow of the tiny crystal and the necklace. One single wide 16:9 image.
+Shot 16-3: Nour reaches out and switches off the star night light; the room is dark except for the soft glow of the tiny crystal; Nour is not wearing the necklace. One single wide 16:9 image.
 ```
 
 ### 16-4

@@ -231,7 +231,7 @@ Shot 16-2 (TALKING, Nour): Nour in bed facing the camera, soft brave smile, the 
 
 ### رسالة 33
 ```
-Shot 16-3: Nour reaches out and switches off the star night light; the room is dark except for the soft glow of the tiny crystal and the necklace. [124-125]
+Shot 16-3: Nour reaches out and switches off the star night light; the room is dark except for the soft glow of the tiny crystal; Nour is not wearing the necklace. [124-125]
 Shot 16-4 (TALKING, Lantern): the lantern on the shelf in the dark room, facing the camera, softly glowing, proud gentle smile. [126]
 Shot 16-5: Nour asleep smiling without the necklace, the tiny crystal glowing beside her pillow; Lumaa twinkles outside the window. [127-130]
 ```
