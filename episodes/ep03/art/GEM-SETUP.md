@@ -5,7 +5,7 @@
 ## الملفات اللي هترفعها
 - `ref-characters.jpg`: صفحة الشخصيات (نور، ومشمش، والفانوس، ولُمعة)
 - `ref-bedroom.jpg`: أوضة نور (من حلقة 2)
-- بعد الخطوة 1 هتزود: `ref-sharara.png` و`ref-crystal-mountains.png` و`ref-cave.png`
+- `ref-sharara.png` و`ref-crystal-mountains.png` و`ref-cave.png` ✅ (اتعملوا على ChatGPT)
 
 ---
 
@@ -31,7 +31,10 @@ Using the attached character sheet's high-end 3D animated family movie style, cr
 
 ---
 
-## الخطوة 2: الـ Gem
+## الخطوة 2: الـ Gem (أو مشروع في ChatGPT)
+**لو هتشتغل على ChatGPT:** اعمل **Project** جديد اسمه `Hawadeet World EP03`، وحط نص `KICKOFF.txt` في **Instructions**، وارفع الـ 5 مراجع في **Files**. وبعدين كل رسالة من `SHOTS-EP03.md` في محادثة جوه المشروع.
+
+**لو على Gemini:**
 1. Gemini ← **Gems** ← **New Gem**
 2. **الاسم:** `Hawadeet World Studio EP03`
 3. **Instructions:** الصق نص `KICKOFF.txt` كله
