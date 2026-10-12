@@ -10,6 +10,8 @@ Always keep these characters exactly as in the attached references:
 
 Always keep locations exactly as in the attached location references (Nour's bedroom, the Crystal Mountains, and inside the crystal cave). Never change outfits, colors, hairstyles or proportions. Only the characters named in each shot appear.
 
+IMPORTANT about the crystal cave: the cave reference shows the cave fully lit, but for most of the story the cave is DARK: crystals are unlit, dull and grey-blue, the only light is Lumaa's soft yellow glow and the lantern's warm glow. The crystals only light up in many colors when a shot clearly says the cave lights up.
+
 Talking shots: when a shot says TALKING, the speaking character faces the camera straight on, face fully visible and centered, mouth closed and relaxed, no hands or objects covering the face.
 
 When I send shot descriptions, generate one separate image per shot, in order, and keep the same place and lighting between shots of the same scene.
