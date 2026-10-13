@@ -10,7 +10,7 @@ WHO={'nour':('the little girl Nour','a cute, sweet cartoon girl voice'),
  'sharara':('Sharara, our own original tiny round lavender baby dragon with golden dots','a soft, shy, sweet little-boy cartoon voice')}
 IPA={'/ˈɡuwwa/':'جوّه','/ˈenta nawˈwart/':'إنت نوّرت','/beˈtenzel/':'بتنزل','/leˈbesti/':'لبستي'}
 TAIL='Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.'
-LANTERN='The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. '
+LANTERN='The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. There is only ONE lantern in the whole video: no other lanterns, lamps or floating lights appear anywhere. The lantern has NO arms and NO hands; only its face moves. '
 DRAGON='Sharara is a cute, gentle, original baby dragon; he is never scary and has no sharp teeth. '
 EXTRA={'05-1':[19],'05-2':[22]}   # SFX cues placed on these shots
 def clean(t):
