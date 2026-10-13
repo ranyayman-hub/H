@@ -57,7 +57,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 ```
 A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour's bedroom from the reference at night, wide shot: Nour sits in bed under the cream blanket, Mama sits on the edge of the bed, the bedside lamp is on, Mishmish curled at the foot of the bed, the lantern unlit on the shelf. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
 Nobody talks; all mouths stay closed.
-The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -69,7 +69,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the little girl Nour says (proudly) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "أيوة يا ماما! وكمان رَتِّبْت لِعَبي."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -81,7 +81,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, her mother (kind young Egyptian mother, beige headscarf) says (warmly) in Egyptian Arabic with a warm, gentle young mother voice:
 "شاطرة يا حبيبتي. يَلّا، هَطَفّي النور بَأَه."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -93,7 +93,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the little girl Nour says (a little scared) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "لأ يا ماما! استَنّي... ممكن تسيبي النور شُوَيّة؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -105,7 +105,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, her mother (kind young Egyptian mother, beige headscarf) says (gently) in Egyptian Arabic with a warm, gentle young mother voice:
 "ليه يا أَمَر؟ إنتي خايفة؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -117,7 +117,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the little girl Nour says (shyly) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "شُوَيّة صُغَيَّرين... الأوضة بِتِبْأى ضلمة أوي... وبَبْأى حاسّة إنّ فيه حاجة في الرُّكن."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -129,7 +129,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, her mother (kind young Egyptian mother, beige headscarf) says (tenderly) in Egyptian Arabic with a warm, gentle young mother voice:
 "تَعالي هنا. الأوضة في الضلمة هي هي نفس الأوضة بالنّهار... نفس السرير، ونفس الدولاب، ونفس الدبدوب."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -137,11 +137,11 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ## C12: صورة 04-8 (🗣️ كلام، 5.7 ث)
 - `012` **mama**: بَسّ عشان خاطر نور حبيبتي، هَسيب اللمبة الصُّغَيَّرة دي منوّرة. اتّفَأْنا؟
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Mama facing the camera, switching on a small star-shaped night light on the bedside table that glows soft yellow. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Mama facing the camera, her hand on the bedside lamp, turning it down to a soft dim glow. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
 Right at the start, her mother (kind young Egyptian mother, beige headscarf) says (warmly) in Egyptian Arabic with a warm, gentle young mother voice:
 "بَسّ عشان خاطر نور حبيبتي، هَسيب اللمبة الصُّغَيَّرة دي منوّرة. اتّفَأْنا؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -149,11 +149,11 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ## C13: صورة 04-9 (🗣️ كلام، 3.6 ث)
 - `013` **nour**: ماما... إنتي كُنْتي بتخافي من الضلمة وإنتي صُغَيَّرة؟
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour facing the camera, curious, lying on her pillow, the small star night light glowing beside her. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour facing the camera, curious, lying on her pillow, the bedside lamp glowing softly and dimly beside her. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
 Right at the start, the little girl Nour says (curious) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "ماما... إنتي كُنْتي بتخافي من الضلمة وإنتي صُغَيَّرة؟"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -165,7 +165,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, her mother (kind young Egyptian mother, beige headscarf) says (smiles) in Egyptian Arabic with a warm, gentle young mother voice:
 "أيوة طبعًا! وتيتة كانت بِتْئول: الضلمة دي بطّانية كبيرة الدّنيا بتتغطّى بيها عشان تنام."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -180,7 +180,7 @@ Right at the start, the little girl Nour says (giggles) in Egyptian Arabic with 
 Then the little girl Nour says (relieved) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "اتّفَأْنا! تصبحي على خير يا ماما."
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -189,9 +189,9 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `017` **mama**: وإنتي من أهله يا روحي.
 - `018` **SFX**: (مؤثر: a soft kiss, footsteps leaving, a door closing gently)
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Mama at the half-open bedroom door looking back lovingly; the room is dark except the small star night light; Nour snuggled in bed. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Mama at the half-open bedroom door looking back lovingly; the room is dark except the dim bedside lamp; Nour snuggled in bed. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
 Nobody talks; all mouths stay closed.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+Nour wears NO necklace here (bare pajama collar). Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -1265,7 +1265,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 ## C108: صورة 16-1 (🎙️ صوت من برّه، 2.7 ث)
 - `122` **nour**: هحط الكريستالة هنا... جنب المخدة.
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour back in her bed at night, placing the tiny glowing crystal next to her pillow; the star night light still on; Mishmish asleep at her feet. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour back in her bed at night, placing the tiny glowing crystal next to her pillow; the dim bedside lamp still on; Mishmish asleep at her feet. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
 Nobody talks; all mouths stay closed.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
@@ -1288,7 +1288,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `124` **SFX**: (مؤثر: a gentle click of a lamp switch turning off)
 - `125` **nour**: شُمّ الوردة... وطفّي الشمعة... أنا مش خايفة.
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour reaches out and switches off the star night light; the room is dark except for the soft glow of the tiny crystal and the necklace. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour reaches out and switches off the dim bedside lamp; the room is dark except for the soft glow of the tiny crystal; Nour is not wearing the necklace. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
 Nobody talks; all mouths stay closed.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
@@ -1310,7 +1310,7 @@ The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image,
 ## C112: صورة 16-5 (🎙️ صوت من برّه، 7.5 ث)
 - `127` **nour**: والضلمة... بطانية كبيرة... الدنيا بتتغطّى بيها عشان تنام... زي ما آلت ماما.
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour asleep smiling, the tiny crystal glowing beside her pillow, the necklace with pink and purple lights; Lumaa twinkles outside the window. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour asleep smiling without the necklace, the tiny crystal glowing beside her pillow; Lumaa twinkles outside the window. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
 Nobody talks; all mouths stay closed.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
@@ -1321,7 +1321,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 - `128` **lumaa**: تصبحي على خير يا نور...
 - `129` **nour**: وإنتي من أهله يا لُمعة.
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour asleep smiling, the tiny crystal glowing beside her pillow, the necklace with pink and purple lights; Lumaa twinkles outside the window. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour asleep smiling without the necklace, the tiny crystal glowing beside her pillow; Lumaa twinkles outside the window. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
 Nobody talks; all mouths stay closed.
 Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
@@ -1331,7 +1331,7 @@ Do NOT change anything in the image: keep exactly the same characters, faces, ha
 ## C114: صورة 16-5 (🎙️ صوت من برّه، 9.6 ث)
 - `130` **fanoos**: ودِلْوَأْتي جه دورك إنت يا حبيبي... شُمّ الوردة بالراحة... وطفّي الشمعة بالراحة... وغمّض عينيك.
 ```
-A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour asleep smiling, the tiny crystal glowing beside her pillow, the necklace with pink and purple lights; Lumaa twinkles outside the window. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
+A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. The scene: Nour asleep smiling without the necklace, the tiny crystal glowing beside her pillow; Lumaa twinkles outside the window. Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.
 Nobody talks; all mouths stay closed.
 The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```

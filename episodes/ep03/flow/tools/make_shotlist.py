@@ -60,6 +60,8 @@ for n,(sid,talker,desc,ls) in enumerate(clips,1):
     for i in ls:
         sp,tx=L[i][1],L[i][2]
         out.append(f"- `{i:03d}` **{sp}**: {clean(tx) if sp!='SFX' else '(مؤثر: '+tx+')'}\n")
+    nn='(no necklace)' in desc
+    desc=desc.replace('(no necklace) ','')
     scene=re.sub(r'^(close-up|medium close-up|wide shot|wide magical shot|closer|final teaser)[,:]\s*','',desc,flags=re.I)
     motion=f'The scene: {scene} Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.'
     p=f'A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. {motion}\n'
@@ -74,6 +76,7 @@ for n,(sid,talker,desc,ls) in enumerate(clips,1):
         p+='Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.\n'
     else:
         p+='Nobody talks; all mouths stay closed.\n'
+    if nn: p+='Nour wears NO necklace here (bare pajama collar). '
     if 'lantern' in desc.lower() or 'fanoos' in speakers: p+=LANTERN
     if 'sharara' in desc.lower() or 'dragon' in desc.lower() or 'sharara' in speakers: p+=DRAGON
     p+=TAIL
