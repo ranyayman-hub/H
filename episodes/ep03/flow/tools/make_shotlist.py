@@ -12,7 +12,8 @@ IPA={'/ˈɡuwwa/':'جوّه','/ˈenta nawˈwart/':'إنت نوّرت','/beˈtenz
 TAIL='Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.'
 LANTERN='The lantern is the same golden Egyptian Ramadan lantern (fanoos) from the image, with red, blue and green stained-glass panes and a kind face; it is NOT an oil lamp or hurricane lamp. Its face always stays clearly visible; its glow never hides the face. There is only ONE lantern in the whole video: no second lantern appears anywhere. The lantern has NO arms and NO hands; only its face moves. '
 DRAGON='Sharara is a cute, gentle, original baby dragon; he is never scary and has no sharp teeth. '
-EXTRA={'05-1':[19],'05-2':[22]}   # SFX cues placed on these shots
+EXTRA={'05-1':[19],'05-2':[22]}
+NOTE={'05-1':'The glowing lantern stays exactly where it is on the shelf the whole time: it does NOT fly, float or move off the shelf, and no new lantern appears anywhere; it only glows and its face moves. '}   # SFX cues placed on these shots
 def clean(t):
     for k,v in IPA.items(): t=t.replace(k,v)
     return re.sub(r'\s+',' ',re.sub(r'\[[^\]]*\]','',t)).strip()
@@ -81,6 +82,7 @@ for n,(sid,talker,desc,ls) in enumerate(clips,1):
         p+='Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.\n'
     else:
         p+='Nobody talks; all mouths stay closed.\n'
+    p+=NOTE.get(sid,'')
     if nn: p+='Nour wears NO necklace here (bare pajama collar). '
     if 'mama' in speakers: p+='Mama is calm, loving and relaxed the whole time with a soft caring smile; she never looks scared. '
     if 'lantern' in desc.lower() or 'fanoos' in speakers: p+=LANTERN
