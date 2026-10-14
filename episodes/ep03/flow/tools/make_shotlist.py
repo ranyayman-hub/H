@@ -82,7 +82,7 @@ for n,(sid,talker,desc,ls) in enumerate(clips,1):
     else:
         p+='Nobody talks; all mouths stay closed.\n'
     if nn: p+='Nour wears NO necklace here (bare pajama collar). '
-    if 'mama' in speakers: p+='Mama is calm, loving and relaxed the whole time with a soft caring smile; she is never scared and never grabs any blanket. '
+    if 'mama' in speakers: p+='Mama is calm, loving and relaxed the whole time with a soft caring smile; she never looks scared. '
     if 'lantern' in desc.lower() or 'fanoos' in speakers: p+=LANTERN
     if 'sharara' in desc.lower() or 'dragon' in desc.lower() or 'sharara' in speakers: p+=DRAGON
     p+=TAIL
