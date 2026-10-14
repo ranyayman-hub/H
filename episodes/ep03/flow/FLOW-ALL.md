@@ -229,7 +229,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, Lumaa, the little glowing star says (excited) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "نور! نور! اِفْتَحي الشِّبّاك!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+The small glowing lantern on the shelf stays exactly where it is the whole time: it does NOT fly or move, and no new lantern appears anywhere. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -241,7 +241,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, the little girl Nour says (happy) in Egyptian Arabic with a cute, sweet cartoon girl voice:
 "لُمعة! وحشتيني!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+The small glowing lantern on the shelf stays exactly where it is the whole time: it does NOT fly or move, and no new lantern appears anywhere. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
@@ -253,7 +253,7 @@ A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is s
 Right at the start, Lumaa, the little glowing star says (happy) in Egyptian Arabic with a tiny, high, cheerful little-girl voice:
 "لِئيت البلّورة التّانية! بتلمع بَنَفْسِجي... في جبال الكريستال!"
 Only the character who is speaking moves the mouth; everyone else stays completely silent with lips pressed together. Clear lip-sync. All talking ends before the 7th second.
-Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
+The small glowing lantern on the shelf stays exactly where it is the whole time: it does NOT fly or move, and no new lantern appears anywhere. Do NOT change anything in the image: keep exactly the same characters, faces, hair, clothes, colors, places and objects, and the same 3D animation style. No new characters, people, heads, hands or objects may appear, not even at the edges of the frame. Static camera, only a very slow gentle push-in. Smooth, gentle bedtime-story motion. Absolutely no captions, no subtitles, no letters or words anywhere on screen. No background music.
 ```
 
 ---
