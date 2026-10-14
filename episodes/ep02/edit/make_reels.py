@@ -12,8 +12,10 @@ REELS = {
     'jelly': [(308.44,317.6,298)],
     # butterflies: Nour counts, the lantern asks the kids; crop_x None = full frame over a blurred fill
     'butterflies': [(200.8,207.16,None),(207.16,211.32,None)],
+    # baskota: the gingerbread guide says hello, Nour is shocked, he asks who the star is
+    'baskota': [(149.0,163.3,None)],
 }
-HOLD = {'riddle': 1.2, 'jelly': 0.8, 'butterflies': 1.2}   # seconds to freeze the last frame at the end
+HOLD = {'baskota': 0.6, 'riddle': 1.2, 'jelly': 0.8, 'butterflies': 1.2}   # seconds to freeze the last frame at the end
 only = sys.argv[2:]
 for name, segs in REELS.items():
     if only and name not in only: continue
