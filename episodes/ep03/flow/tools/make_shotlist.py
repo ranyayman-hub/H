@@ -64,7 +64,7 @@ for n,(sid,talker,desc,ls) in enumerate(clips,1):
     desc=desc.replace('(no necklace) ','')
     scene=re.sub(r'^(close-up|medium close-up|wide shot|wide magical shot|closer|final teaser)[,:]\s*','',desc,flags=re.I)
     if sid.startswith('04-'):
-        motion=f'The scene: {scene} Gentle living motion: soft blinking, small natural head and body movements. This is a normal cozy bedroom before the magic starts: no magic, no sparkles, no glitter, no glowing particles anywhere; the lantern on the shelf stays dark, unlit and completely still the whole time.'
+        motion=f'The scene: {scene} Gentle living motion: soft blinking, small natural head and body movements. This is a normal cozy bedroom before the magic starts: no magic, no sparkles, no glitter, no glowing particles anywhere; the lantern on the shelf stays dark, unlit and completely still the whole time; the bedside lamp stays on the whole time and never turns off.'
     elif sid.startswith('16-') and sid!='16-6':
         motion=f'The scene: {scene} Gentle living motion: soft blinking, small natural head and body movements. Calm and quiet: no sparkles, no glitter, no glowing particles in the room; only the tiny red crystal glows softly.'
     else:
