@@ -70,6 +70,8 @@ for n,(sid,talker,desc,ls) in enumerate(clips,1):
         motion=f'The scene: {scene} Gentle living motion: soft blinking, small natural head and body movements. Calm and quiet: no sparkles, no glitter, no glowing particles in the room; only the tiny red crystal glows softly.'
     else:
         motion=f'The scene: {scene} Gentle living motion: soft blinking, small natural head and body movements, sparkles and glows shimmer softly.'
+    if 'lantern' in desc.lower() or 'fanoos' in speakers:
+        motion=motion.replace('small natural head and body movements','the lantern only floats and gently bobs in the air; people only blink and breathe softly')
     p=f'A cozy, safe, magical 3D cartoon bedtime story for young children; everyone is safe, calm and happy. Use the attached image as the exact first frame of the video (same camera angle, same framing). Animate this exact image. {motion}\n'
     if mode=='talk':
         first=True
@@ -83,6 +85,7 @@ for n,(sid,talker,desc,ls) in enumerate(clips,1):
     else:
         p+='Nobody talks; all mouths stay closed.\n'
     p+=NOTE.get(sid,'')
+    if sid[:2] in ('08','09','10','11','12'): p+='The cave stays dark the whole time: the crystals stay unlit, dull and grey-blue; the only light is Lumaa\'s soft glow and the lantern\'s warm glow. '
     if nn: p+='Nour wears NO necklace here (bare pajama collar). '
     if 'mama' in speakers: p+='Mama is calm, loving and relaxed the whole time with a soft caring smile; she never looks scared. '
     if 'lantern' in desc.lower() or 'fanoos' in speakers: p+=LANTERN
