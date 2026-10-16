@@ -1,17 +1,27 @@
 """Assemble EP03 from the approved Flow clips (flow/clips) + our ElevenLabs takes (voice/takes).
 
-Part 1 (C01-C33) reuses flow/preview/C01-C33-voice.mp4, which was built clip by clip during review.
-Part 2 (C34-C115) is rebuilt here with the same timings used in the review previews.
+Every shot is rebuilt here with the timings approved in the review previews; each take is
+levelled to -17 LUFS first.
 Output: edit/EP03-flow-v1.mp4 (no logo/music/SFX yet).
 """
-import os, subprocess
+import os, re, subprocess
 EP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CL, TK = f'{EP}/flow/clips', f'{EP}/voice/takes'
 OUT = f'{EP}/edit/build/asm'; os.makedirs(OUT, exist_ok=True)
 FPS = 24
 
 def run(cmd): subprocess.run(cmd, check=True)
-def T(n): return f'{TK}/{n:03d}.mp3'
+NORM = f'{OUT}/norm'; os.makedirs(NORM, exist_ok=True)
+def lufs(p):
+    log = subprocess.run(['ffmpeg','-i',p,'-af','ebur128=framelog=quiet','-f','null','-'], capture_output=True, text=True).stderr
+    return float(re.findall(r'I:\s+(-?[\d.]+) LUFS', log)[-1])
+def T(n):
+    """Take n, gain-normalised to -17 LUFS (raw ElevenLabs takes vary by ~12 dB)."""
+    src, dst = f'{TK}/{n:03d}.mp3', f'{NORM}/{n:03d}.wav'
+    if not os.path.exists(dst):
+        g = -17 - lufs(src)
+        run(['ffmpeg','-v','error','-y','-i',src,'-af',f'volume={g:.2f}dB,alimiter=limit=0.95:level=false','-ar','44100',dst])
+    return dst
 
 # helper audio: two takes joined (second quieter echo-like reply) as in review
 def joined(a, b, out, vol_b=1.0):
@@ -22,10 +32,50 @@ def joined(a, b, out, vol_b=1.0):
     return out
 C35A = joined(42, 43, f'{OUT}/c35a.wav', 0.6)
 C46A = joined(55, 56, f'{OUT}/c46a.wav')
+def fx(out, fc, ins):
+    if not os.path.exists(out):
+        cmd=['ffmpeg','-v','error','-y']
+        for i in ins: cmd+=['-i',i]
+        run(cmd+['-filter_complex',fc,'-map','[o]','-ac','2',out])
+    return out
+C15A = fx(f'{OUT}/c15a.wav', '[0:a]aresample=44100,apad=pad_dur=0.4[x];[1:a]aresample=44100[y];[x][y]concat=n=2:v=0:a=1[o]', [T(15), T(16)])
+C29A = fx(f'{OUT}/c29a.wav', '[0:a]aresample=44100,aecho=0.8:0.6:400|800:0.5|0.3,apad=pad_dur=1.3[x];[1:a]aresample=44100[y];[x][y]concat=n=2:v=0:a=1[o]', [T(33), T(35)])
+C31E = fx(f'{OUT}/c31e.wav', '[0:a]aresample=44100,aecho=0.8:0.6:400|800:0.6|0.4,volume=0.6[o]', [T(33)])
 
 # (name, source, duration, video opts, [(audio, delay_s)])
 # opts: speed=slowdown factor, pre=freeze first frame seconds
 S = [
+ ('C01', 'C01', 4.0, {}, [(T(1), 1.0)]),
+ ('C02', 'C02', 4.0, {}, [(T(2), .3)]),
+ ('C03', 'C03', 5.0, {}, [(T(3), .1)]),
+ ('C04', 'C04', 6.0, {}, [(T(4), .1)]),
+ ('C05', 'C05', 4.2, {}, [(T(5), .4)]),
+ ('C06', 'C06', 3.2, {}, [(T(6), .1)]),
+ ('C07', 'C07', 4.1, {}, [(T(7), .1)]),
+ ('C08', 'C08', 4.2, {}, [(T(8), .1)]),
+ ('C09', 'C09', 3.3, {}, [(T(9), .1)]),
+ ('C10', 'C10', 6.0, {}, [(T(10), .1)]),
+ ('C11', 'C11', 8.8, {'speed': 1.1}, [(T(11), .1)]),
+ ('C12', 'C12', 6.1, {}, [(T(12), .1)]),
+ ('C13', 'C13', 4.0, {}, [(T(13), .1)]),
+ ('C14', 'C14', 8.0, {}, [(T(14), .1)]),
+ ('C15', 'C15', 7.4, {}, [(C15A, .1)]),
+ ('C16', 'C16', 4.5, {}, [(T(17), .2)]),
+ ('C17', 'C17', 5.375, {'speed': 1.25}, [(T(20), .2)]),
+ ('C18', 'C18', 3.6, {}, [(T(21), .3)]),
+ ('C19', 'C19', 6.0, {}, [(T(23), .2), (T(24), 3.7)]),   # C20 rides on C19's tail
+ ('C21', 'C21', 6.3, {}, [(T(25), .2)]),
+ ('C22', 'C22', 3.4, {}, [(T(26), .15)]),
+ ('C23', 'C23', 3.0, {'own': 0.6}, []),                   # keeps Veo's own ambience
+ ('C24', 'C24', 4.8, {}, [(T(28), .15)]),
+ ('C25', 'C25', 6.1, {}, [(T(29), .15)]),
+ ('C26', 'C26', 3.7, {}, [(T(30), .15)]),
+ ('C27', 'C27', 3.9, {}, [(T(31), .15)]),
+ ('C28', 'C28', 6.9, {}, [(T(32), .15)]),
+ ('C29', 'C29', 6.0, {}, [(C29A, .1)]),
+ ('C30', 'C30', 3.2, {}, [(T(36), .15)]),
+ ('C31', 'C31', 8.0, {}, [(T(37), 0), (C31E, 6.6)]),      # C32 echo on C31's tail
+ ('C33', 'C33', 5.3, {}, [(T(40), .15)]),
  ('C34', 'C34-still', 1.5, {}, []),
  ('C35', 'C35', 5.3, {}, [(C35A, .1)]),
  ('C36', 'C36', 3.4, {}, [(T(44), .1)]),
@@ -112,7 +162,9 @@ def seg(i, name, src, d, o, aud):
     cmd = ['ffmpeg','-v','error','-y','-i',f'{CL}/{src}.mp4']
     for a, _ in aud: cmd += ['-i', a]
     fc = [v]
-    if aud:
+    if 'own' in o:
+        fc.append(f"[0:a]aresample=44100,aformat=channel_layouts=stereo,volume={o['own']},apad,atrim=0:{d}[a]")
+    elif aud:
         for k, (_, t) in enumerate(aud):
             ms = int(t*1000); fc.append(f'[{k+1}:a]aresample=44100,aformat=channel_layouts=stereo,adelay={ms}|{ms}[a{k}]')
         fc.append(''.join(f'[a{k}]' for k in range(len(aud))) + f'amix=inputs={len(aud)}:normalize=0,apad,atrim=0:{d}[a]')
@@ -123,11 +175,6 @@ def seg(i, name, src, d, o, aud):
     run(cmd); return dst
 
 parts = []
-p1 = f'{OUT}/s000-C01-C33.mp4'
-if not os.path.exists(p1):
-    run(['ffmpeg','-v','error','-y','-i',f'{EP}/flow/preview/C01-C33-voice.mp4','-vf',VN,'-af','aresample=44100,aformat=channel_layouts=stereo',
-         '-c:v','libx264','-crf','18','-preset','veryfast','-c:a','aac','-b:a','192k','-ar','44100',p1])
-parts.append(p1)
 for i, s in enumerate(S, 1): parts.append(seg(i, *s))
 open(f'{OUT}/list.txt','w').write(''.join(f"file '{p}'\n" for p in parts))
 out = f'{EP}/edit/EP03-flow-v1.mp4'
