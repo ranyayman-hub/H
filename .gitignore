@@ -18,3 +18,6 @@ episodes/ep01/build/lipsync/veed/
 episodes/ep01/build/lipsync/failed/
 episodes/ep02/edit/build/
 ffmpeg2pass-*
+episodes/ep03/edit/build/asm/
+episodes/ep03/edit/EP03-flow-v1.mp4
+episodes/ep03/edit/EP03-flow-v2.mp4
