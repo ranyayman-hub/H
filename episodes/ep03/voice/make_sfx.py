@@ -1,4 +1,5 @@
-"""Generate EP03 sound effects with the ElevenLabs sound-generation API -> voice/sfx/NNN.mp3.
+"""NOTE: the API is blocked from the cloud container; EP03 SFX were made via the ElevenLabs connector (flow "EP03 SFX") and downloaded with ep02/voice/tools/fetch.py.
+Generate EP03 sound effects with the ElevenLabs sound-generation API -> voice/sfx/NNN.mp3.
 The 'hello hello' echoes (034/038/039) are already made from Nour's own voice with aecho, so they are skipped;
 041 reuses 000 (same cave drips). Skips files that already exist, so re-running never re-spends credits."""
 import json, os, shutil, sys, urllib.request
