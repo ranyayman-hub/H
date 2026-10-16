@@ -48,3 +48,8 @@
 - **Altered or synthetic content:** Yes
 - **Tags:** حواديت, قصص اطفال, حدوتة قبل النوم, قصص قبل النوم, كرتون اطفال, التنين الخايف من الضلمة, الخوف من الضلمة, نور والفانوس السحري, عالم الحواديت, Arabic kids stories, bedtime stories in Arabic
 - **Playlist:** نور والفانوس السحري
+
+## السوشيال (16 أكتوبر 2026)
+- ريل «هاتشي!» (`shorts/EP03-reel-hatchi.mp4`): Instagram + Facebook Reels + TikTok + YouTube Shorts
+- اسم الصوت: هاتشي! 🤧🐉 شرارة التنين | عالم الحواديت
+- بوست الإعلان: `thumbnails/EP03-post-4x5.jpg`
