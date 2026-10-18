@@ -116,7 +116,7 @@
 - 074 **مرجانة:** [deep breath, deciding] خُدي يا نور... البلّورة. عشان كل الأطفال يحلموا.
 - 075 🎵 a big warm magical chime, then a turquoise sparkling wave of light spreading
 - 076 **نور:** [amazed] وااااو! الأَصْر كلّه نَوَّر!
-- 077 **لُمعة:** [happy] بالفَيْروزي! والسمك بيرقص!
+- 077 **لُمعة:** [happy] بالفَيْروزي! والسمك بيرأص!
 - 078 **بقبوقة:** [happy] بُلُب! بُلُب! بُلُب!
 - 079 🎵 many playful bubbles popping like a little bubbly song
 - 080 **لُمعة:** [laughing] بأبوءة بتعمل فُأّاعات على شكل ألوب!
