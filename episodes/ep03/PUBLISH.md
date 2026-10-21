@@ -54,3 +54,4 @@
 - اسم الصوت: هاتشي! 🤧🐉 شرارة التنين | عالم الحواديت
 - بوست الإعلان: `thumbnails/EP03-post-4x5.jpg`
 - ريل «غرررر!» (`shorts/EP03-reel-grrr.mp4`، 18 أكتوبر): Instagram + Facebook Reels + TikTok + YouTube Shorts
+- ريل «هيقدر ينوّر الضلمة؟» (`shorts/EP03-reel-crystal.mp4`، 21 أكتوبر): Instagram + Facebook Reels + TikTok + YouTube Shorts
